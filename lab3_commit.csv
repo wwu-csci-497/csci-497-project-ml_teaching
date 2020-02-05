@@ -1,0 +1,645 @@
+repo_url,timestamp,comment,n_additions,n_deletions,changes,n_passed,n_run,tests_passed
+c60df6e5d79fbf98fec5bf3c05275e8b,2019-10-15T20:46:16Z,Initial commit,556,0,556,0,8,0.0
+c60df6e5d79fbf98fec5bf3c05275e8b,2019-10-21T23:24:38Z,"both replace functions, remove, and quit",69,4,73,0,0,-1.0
+c60df6e5d79fbf98fec5bf3c05275e8b,2019-10-21T23:41:11Z,print reverse,10,1,11,0,0,-1.0
+c60df6e5d79fbf98fec5bf3c05275e8b,2019-10-22T07:39:02Z,fixing replace single,77,35,112,0,0,-1.0
+c60df6e5d79fbf98fec5bf3c05275e8b,2019-10-23T01:05:20Z,fixing a couple things,60,59,119,0,0,-1.0
+c60df6e5d79fbf98fec5bf3c05275e8b,2019-10-23T01:35:14Z,finishing touches,5,11,16,0,0,-1.0
+c60df6e5d79fbf98fec5bf3c05275e8b,2019-10-23T01:36:36Z,Update README.md,2,2,4,0,0,-1.0
+c60df6e5d79fbf98fec5bf3c05275e8b,2019-10-23T01:36:59Z,Update README.md,1,1,2,0,0,-1.0
+7beb495bcc3a600414f6a4eb629b35de,2019-10-20T17:19:47Z,Final post,163,50,213,8,8,1.0
+7beb495bcc3a600414f6a4eb629b35de,2019-10-12T19:10:50Z,Initial commit,556,0,556,0,8,0.0
+7beb495bcc3a600414f6a4eb629b35de,2019-10-15T17:18:08Z,Dude perfect,58,1,59,0,8,0.0
+5d9c0740a0a3db49fe9d8389d137fce7,2019-10-15T20:54:42Z,Initial commit,556,0,556,0,8,0.0
+5d9c0740a0a3db49fe9d8389d137fce7,2019-10-15T21:41:10Z,Updated README & started main{},23,5,28,0,0,-1.0
+5d9c0740a0a3db49fe9d8389d137fce7,2019-10-18T23:44:03Z,"Finished validateOccurence & replaceSingle methods, tweaked remove method to allow for removing multiple instanses of target character, added comments.",381,152,533,0,0,-1.0
+5d9c0740a0a3db49fe9d8389d137fce7,2019-10-22T21:06:19Z,"Test, trying to fix gradle problem",2,2,4,0,0,-1.0
+73c4995d4257ff5930155d27c490bf89,2019-10-11T04:26:37Z,Update StringManipulator.java\n\nFixed implementation of replaceSingle,7,13,20,8,8,1.0
+73c4995d4257ff5930155d27c490bf89,2019-10-10T23:11:03Z,Initial commit,556,0,556,0,8,0.0
+73c4995d4257ff5930155d27c490bf89,2019-10-10T23:58:49Z,Merge branch 'master' of https://github.com/wwu-csci-145/lab3-jared-wingerson,3,1,4,0,0,-1.0
+428ad48af0fac7a755cff0d156eb035d,2019-10-23T02:23:10Z,Initial commit,556,0,556,0,8,0.0
+428ad48af0fac7a755cff0d156eb035d,2019-10-23T06:21:28Z,Updated read me. Completed StringManipulator class.,138,20,158,0,0,-1.0
+4df45a49c279f0c904a47c9b56aab594,2019-10-21T21:26:18Z,"finished code, one added method\n\nThe code for lab 3 tested with various user inputs, built with the given methods as well as one additional one.",191,61,252,8,8,1.0
+4df45a49c279f0c904a47c9b56aab594,2019-10-21T21:27:56Z,updated information,2,2,4,8,8,1.0
+4df45a49c279f0c904a47c9b56aab594,2019-10-12T19:22:50Z,Initial commit,556,0,556,0,8,0.0
+83ce75c8e9f5c71bb15eafbadc438d27,2019-10-21T21:37:08Z,Initial commit,556,0,556,0,8,0.0
+83ce75c8e9f5c71bb15eafbadc438d27,2019-10-22T21:53:16Z,finished,54,21,75,0,0,-1.0
+b39ea2bd58f2a1747379ef82927deff9,2019-10-11T18:43:59Z,"Finished all functionalities, program matches all sample inputs and outputs in Lab 3 documentation",132,21,153,8,8,1.0
+b39ea2bd58f2a1747379ef82927deff9,2019-10-10T20:52:06Z,Initial commit,556,0,556,0,8,0.0
+091633e9804b6182ca9fad8dd4e90f17,2019-10-15T22:54:31Z,"Set up while loop to ask for commands, and coded the following methods: validateString, validateStringContainsChar, printReverse, remove",65,34,99,1,8,0.125
+dd9938adb083be8cd57d87a010c3c408,2019-10-21T22:20:25Z,Fixed errors travis was giving,4,2,6,8,8,1.0
+dd9938adb083be8cd57d87a010c3c408,2019-10-21T23:05:41Z,"Fixed bugs,completed error statments for user error, fixed validateString Contains Char",26,36,62,8,8,1.0
+dd9938adb083be8cd57d87a010c3c408,2019-10-22T05:07:40Z,"Fixed bugs implmented use of inputing space, completed lab 3",30,15,45,8,8,1.0
+dd9938adb083be8cd57d87a010c3c408,2019-10-15T00:08:39Z,Initial commit,556,0,556,0,8,0.0
+dd9938adb083be8cd57d87a010c3c408,2019-10-15T02:43:41Z,"Began working on lab, started making methods",70,8,78,0,0,-1.0
+dd9938adb083be8cd57d87a010c3c408,2019-10-17T02:07:00Z,Completed Replace all method and some others.,34,20,54,0,0,-1.0
+dd9938adb083be8cd57d87a010c3c408,2019-10-21T04:50:57Z,Updated replace all method,68,7,75,0,0,-1.0
+dd9938adb083be8cd57d87a010c3c408,2019-10-21T05:18:01Z,Completed validate occurance,26,22,48,0,0,-1.0
+dd9938adb083be8cd57d87a010c3c408,2019-10-21T06:02:18Z,Began finalizing code and debugging,34,14,48,5,8,0.625
+dd9938adb083be8cd57d87a010c3c408,2019-10-21T07:00:57Z,"Began finalizing code, code is full functioning for replace all and print reverse",14,6,20,6,8,0.75
+dd9938adb083be8cd57d87a010c3c408,2019-10-21T21:59:28Z,Completed main method only minor bugs left to fix,82,20,102,6,8,0.75
+129cef1f16c24617e57669583ddd0276,2019-10-22T17:34:39Z,still testing,13,9,22,8,8,1.0
+129cef1f16c24617e57669583ddd0276,2019-10-22T18:05:37Z,lab completed,22,69,91,8,8,1.0
+129cef1f16c24617e57669583ddd0276,2019-10-22T18:07:41Z,Update README.md,2,2,4,8,8,1.0
+129cef1f16c24617e57669583ddd0276,2019-10-22T18:09:04Z,Update README.md,2,0,2,8,8,1.0
+129cef1f16c24617e57669583ddd0276,2019-10-22T18:10:02Z,Update README.md,1,1,2,8,8,1.0
+129cef1f16c24617e57669583ddd0276,2019-10-22T20:04:42Z,Update StringManipulator.java,0,3,3,8,8,1.0
+129cef1f16c24617e57669583ddd0276,2019-10-22T20:12:20Z,lab completed,1,0,1,8,8,1.0
+129cef1f16c24617e57669583ddd0276,2019-10-10T20:55:09Z,Initial commit,556,0,556,0,8,0.0
+129cef1f16c24617e57669583ddd0276,2019-10-15T18:08:20Z,Still in progress,53,11,64,0,0,-1.0
+129cef1f16c24617e57669583ddd0276,2019-10-16T23:49:03Z,Work in progress,3,3,6,2,8,0.25
+129cef1f16c24617e57669583ddd0276,2019-10-17T18:53:20Z,"finished with most methods, need to finish main method",66,24,90,5,8,0.625
+129cef1f16c24617e57669583ddd0276,2019-10-22T02:31:41Z,"Almost finished, need to test",141,53,194,7,8,0.875
+129cef1f16c24617e57669583ddd0276,2019-10-22T02:51:36Z,almost there,6,3,9,7,8,0.875
+54d0da563083cb80d3bf7c39cc202c19,2019-10-23T00:26:32Z,Update README.md,2,2,4,8,8,1.0
+5a33419dfcf1ebd3491f525104c9594f,2019-10-11T02:16:18Z,The fully functional class,135,16,151,8,8,1.0
+5a33419dfcf1ebd3491f525104c9594f,2019-10-11T02:29:03Z,Added better comments,27,2,29,8,8,1.0
+5a33419dfcf1ebd3491f525104c9594f,2019-10-10T22:08:21Z,Initial commit,556,0,556,0,8,0.0
+cc6b9e559cbc857dd4e8abacde70c7ce,2019-10-14T21:12:30Z,Initial commit,556,0,556,0,8,0.0
+cc6b9e559cbc857dd4e8abacde70c7ce,2019-10-14T22:49:47Z,initial changes to user interaction in main,29,1,30,0,8,0.0
+cc6b9e559cbc857dd4e8abacde70c7ce,2019-10-23T06:41:07Z,Update StringManipulator.java\n\nsubpar final draft,56,16,72,0,0,-1.0
+cc6b9e559cbc857dd4e8abacde70c7ce,2019-10-23T06:47:36Z,"Update StringManipulator.java\n\nsome comments added, still subsubpar though",9,2,11,1,8,0.125
+a1be932b5e97f9b64ba7666d4d174ccf,2019-10-12T00:11:36Z,"All methods working, prompts user for input",243,116,359,8,8,1.0
+a1be932b5e97f9b64ba7666d4d174ccf,2019-10-10T16:47:49Z,Initial commit,556,0,556,0,8,0.0
+a1be932b5e97f9b64ba7666d4d174ccf,2019-10-11T22:58:14Z,"All methods working, user is prompted for input",599,472,1071,0,0,-1.0
+a1be932b5e97f9b64ba7666d4d174ccf,2019-10-11T23:13:45Z,attempt to fix Travis-CI issue,19,0,19,0,0,-1.0
+1750d74f9223de4e874a177a24f09ad3,2019-10-21T18:13:07Z,Initial commit,556,0,556,0,8,0.0
+70f9629dde3b7d689f00442c96aa44cb,2019-10-15T21:18:55Z,Quick little edit,43,29,72,0,0,-1.0
+70f9629dde3b7d689f00442c96aa44cb,2019-10-22T22:53:46Z,"Not finished, will be late ):",117,26,143,0,0,-1.0
+70f9629dde3b7d689f00442c96aa44cb,2019-10-22T22:54:38Z,"Not finished, will be late",6,1,7,0,0,-1.0
+fdbea8fa2f28e660530684ec07f85bfa,2019-10-22T06:36:03Z,"Finished fleshing methods, added several custom\n\nadded logic under main, added commenting throughout",276,94,370,8,8,1.0
+fdbea8fa2f28e660530684ec07f85bfa,2019-10-23T06:49:24Z,tidied comments,4,13,17,8,8,1.0
+fdbea8fa2f28e660530684ec07f85bfa,2019-10-23T07:06:57Z,added catch,12,3,15,8,8,1.0
+fdbea8fa2f28e660530684ec07f85bfa,2019-10-25T19:40:39Z,updated readme,2,2,4,8,8,1.0
+fdbea8fa2f28e660530684ec07f85bfa,2019-10-15T20:59:06Z,Initial commit,556,0,556,0,8,0.0
+fdbea8fa2f28e660530684ec07f85bfa,2019-10-15T22:06:54Z,"developed first two methods, tested first, added and began development of user interface",48,5,53,0,8,0.0
+4c172a0d7a7780d80b7c5ffdeced06b6,2019-10-22T18:01:01Z,Update StringManipulator.java\n\nchanged validateoccurance,2,2,4,8,8,1.0
+4c172a0d7a7780d80b7c5ffdeced06b6,2019-10-22T18:06:36Z,Update README.md,2,2,4,8,8,1.0
+4c172a0d7a7780d80b7c5ffdeced06b6,2019-10-22T18:09:54Z,Update README.md\n\nAdded travis passing image,1,0,1,8,8,1.0
+4c172a0d7a7780d80b7c5ffdeced06b6,2019-10-22T18:13:54Z,Update StringManipulator.java\n\nAdded extra sentences to the System.out.println's to make them more informative.,8,13,21,8,8,1.0
+4c172a0d7a7780d80b7c5ffdeced06b6,2019-10-22T18:17:43Z,Update StringManipulator.java\n\nAdded some more comments,5,5,10,8,8,1.0
+4c172a0d7a7780d80b7c5ffdeced06b6,2019-10-21T17:18:31Z,Initial commit,556,0,556,0,8,0.0
+4c172a0d7a7780d80b7c5ffdeced06b6,2019-10-21T19:27:43Z,Update StringManipulator.java\n\nUnsure on how to add some of the methods for now,89,22,111,0,0,-1.0
+4c172a0d7a7780d80b7c5ffdeced06b6,2019-10-21T19:38:31Z,Update StringManipulator.java,9,4,13,0,0,-1.0
+4c172a0d7a7780d80b7c5ffdeced06b6,2019-10-22T04:26:25Z,Updated the java\n\nStill have to fix issues where error code double inputs and how to save that string to continue to manipulate it.,84,104,188,0,0,-1.0
+4c172a0d7a7780d80b7c5ffdeced06b6,2019-10-22T04:36:01Z,Update StringManipulator.java\n\nadded comments to explain each method,13,7,20,0,0,-1.0
+4c172a0d7a7780d80b7c5ffdeced06b6,2019-10-22T17:43:04Z,Update StringManipulator.java\n\nmoved original string out of while loop,5,1,6,0,0,-1.0
+4c172a0d7a7780d80b7c5ffdeced06b6,2019-10-22T17:49:58Z,Update StringManipulator.java\n\nadded a default,4,1,5,0,0,-1.0
+4c172a0d7a7780d80b7c5ffdeced06b6,2019-10-22T17:54:25Z,Update StringManipulator.java\n\nremoved package,1,1,2,5,8,0.625
+331e4e97f405186e1eda9fa1398dc693,2019-10-21T21:40:20Z,Finished the replace single method & the remove method. Am intending on running it through Travis now.,32,15,47,8,8,1.0
+331e4e97f405186e1eda9fa1398dc693,2019-10-21T21:48:05Z,Update README.md,4,2,6,8,8,1.0
+331e4e97f405186e1eda9fa1398dc693,2019-10-14T22:53:10Z,"Began the shell of the main method, which will ask the user for a sentence, and then eventually allow them to chose from five function to apply to the original entry. Began work on the Replace Single method & the validate string method.",59,9,68,0,8,0.0
+331e4e97f405186e1eda9fa1398dc693,2019-10-15T19:50:29Z,Added a switch-case in place of an if-else in main.,36,7,43,0,8,0.0
+331e4e97f405186e1eda9fa1398dc693,2019-10-16T18:01:23Z,Formed the printReverse function so it will print the entered string in reverse.,28,13,41,0,8,0.0
+331e4e97f405186e1eda9fa1398dc693,2019-10-16T18:04:57Z,No major changes - just making sure gitHub is synced in case.,1,1,2,0,8,0.0
+331e4e97f405186e1eda9fa1398dc693,2019-10-17T17:46:39Z,Adding a loop so the program will continue to ask for the user to choose a modifier to perform - not done working on this. Will come back after class to work on it; note: does not compile at the moment.,35,21,56,0,0,-1.0
+331e4e97f405186e1eda9fa1398dc693,2019-10-17T19:54:41Z,Created the validateStringContainsChar method; made it so that the program will continue to ask the user to chose a function until they quit.,43,27,70,0,8,0.0
+331e4e97f405186e1eda9fa1398dc693,2019-10-19T22:53:01Z,"Worked on & completed replace all, worked on replace single; to be completed.",40,13,53,2,8,0.25
+331e4e97f405186e1eda9fa1398dc693,2019-10-20T17:22:09Z,Tried working on the Replace All & Replace Single functions. Made everything worse. Will return soon.,17,7,24,2,8,0.25
+331e4e97f405186e1eda9fa1398dc693,2019-10-21T17:37:11Z,"Worked on teh validateOccurance method - still need to debug it because it is not increasing the integer that keeps track of the total occurance, but it is coming together well.",52,27,79,2,8,0.25
+e07d7c4f0a1c99deac8beabec8a28870,2019-10-17T03:17:06Z,All methods have passed every test I have tried,88,36,124,8,8,1.0
+e07d7c4f0a1c99deac8beabec8a28870,2019-10-17T03:38:29Z,Changed print reverse to be able to return a String so the reverse would be saved as the str for continued manipulation,11,7,18,8,8,1.0
+e07d7c4f0a1c99deac8beabec8a28870,2019-10-17T21:08:43Z,Returned printReverse to return void and added an error statement to replaceSingle if the occurance does not exist,6,3,9,8,8,1.0
+e07d7c4f0a1c99deac8beabec8a28870,2019-10-21T22:54:20Z,Fixed issue where replace single could only go up to occurance 9,1,1,2,8,8,1.0
+e07d7c4f0a1c99deac8beabec8a28870,2019-10-14T20:45:25Z,Initial commit,556,0,556,0,8,0.0
+e07d7c4f0a1c99deac8beabec8a28870,2019-10-14T22:09:59Z,All methods except main are written but untested,67,14,81,0,0,-1.0
+e07d7c4f0a1c99deac8beabec8a28870,2019-10-14T22:40:38Z,All methods are written but untested,42,1,43,0,0,-1.0
+4171ef5bc8e29b6d2332c1625390f88a,2019-10-17T00:58:14Z,"Finished program, implemented replaceSingle, remove & validateOccurrance",62,15,77,8,8,1.0
+4171ef5bc8e29b6d2332c1625390f88a,2019-10-17T01:00:00Z,Update README.md\n\nAdded Travis badge,2,0,2,8,8,1.0
+4171ef5bc8e29b6d2332c1625390f88a,2019-10-14T17:47:30Z,Created initial main method and validation system,28,11,39,0,8,0.0
+4171ef5bc8e29b6d2332c1625390f88a,2019-10-14T22:06:52Z,"Finished print reverse, began work on replace all & char validation",56,8,64,0,8,0.0
+4171ef5bc8e29b6d2332c1625390f88a,2019-10-15T05:35:50Z,Fully implemented replaceAll and validateString,23,8,31,2,8,0.25
+4171ef5bc8e29b6d2332c1625390f88a,2019-10-15T05:37:38Z,Edited readme,2,2,4,2,8,0.25
+df8d231c77875ff9b94cd77c925b458f,2019-10-15T17:22:03Z,Finished all functions for testing,55,42,97,8,8,1.0
+df8d231c77875ff9b94cd77c925b458f,2019-10-19T21:58:26Z,Finished code and comments,75,45,120,8,8,1.0
+df8d231c77875ff9b94cd77c925b458f,2019-10-19T22:03:04Z,Update README.md,2,2,4,8,8,1.0
+df8d231c77875ff9b94cd77c925b458f,2019-10-19T22:03:18Z,Update README.md,1,0,1,8,8,1.0
+df8d231c77875ff9b94cd77c925b458f,2019-10-11T20:33:58Z,Initial commit,556,0,556,0,8,0.0
+df8d231c77875ff9b94cd77c925b458f,2019-10-15T15:38:12Z,Started lab3 and created some methods,149,13,162,7,8,0.875
+06a041e8bd26b675591084a99baccce8,2019-10-13T23:43:57Z,Initial commit,556,0,556,0,8,0.0
+06a041e8bd26b675591084a99baccce8,2019-10-15T18:24:18Z,updated README and first commit of StringManipulator,190,113,303,6,8,0.75
+06a041e8bd26b675591084a99baccce8,2019-10-15T20:11:08Z,Optimized main by adding method isValid,18,25,43,6,8,0.75
+b9ba448db8a808a468b06ab576c1d0c4,2019-10-19T18:51:07Z,"Added remove method, program is functioning as designed. Need to code in error messages and comments",48,42,90,8,8,1.0
+b9ba448db8a808a468b06ab576c1d0c4,2019-10-22T06:27:16Z,Final Commit,24,44,68,8,8,1.0
+b9ba448db8a808a468b06ab576c1d0c4,2019-10-22T06:28:14Z,Update README.md,2,2,4,8,8,1.0
+b9ba448db8a808a468b06ab576c1d0c4,2019-10-23T07:03:13Z,Update README.md,2,0,2,8,8,1.0
+b9ba448db8a808a468b06ab576c1d0c4,2019-10-23T07:03:40Z,Update README.md,1,1,2,8,8,1.0
+b9ba448db8a808a468b06ab576c1d0c4,2019-10-14T20:22:43Z,Initial commit,556,0,556,0,8,0.0
+b9ba448db8a808a468b06ab576c1d0c4,2019-10-15T07:17:55Z,"First Commit, started work on main method and print reverse",31,1,32,0,8,0.0
+b9ba448db8a808a468b06ab576c1d0c4,2019-10-15T22:34:12Z,"Almost all methods are in working form, with remove being the one exception",190,130,320,7,8,0.875
+8ea5b2322c248ee4fad7a33d37e3ae50,2019-10-24T00:50:53Z,made some changes to print statements and fixed an array index error,21,19,40,8,8,1.0
+8ea5b2322c248ee4fad7a33d37e3ae50,2019-10-20T22:14:07Z,Initial commit,556,0,556,0,8,0.0
+8ea5b2322c248ee4fad7a33d37e3ae50,2019-10-20T23:59:09Z,began writing in main method and defining methods,67,7,74,0,0,-1.0
+8ea5b2322c248ee4fad7a33d37e3ae50,2019-10-22T00:43:00Z,started coding methods. missing a curley bracket somewhere and its really angry,54,37,91,0,0,-1.0
+8ea5b2322c248ee4fad7a33d37e3ae50,2019-10-22T23:02:41Z,changed some variables to static. began coding replaceAll method. fixed an error with curly brackets in main method.,67,47,114,0,0,-1.0
+8ea5b2322c248ee4fad7a33d37e3ae50,2019-10-23T06:57:20Z,"got all the functions to work, not compeletly done yet. still need to add recognization for different capitalizations",158,49,207,3,8,0.375
+8ea5b2322c248ee4fad7a33d37e3ae50,2019-10-24T00:11:27Z,"added a lot of comments, fixed some duplicate variables, still trying to fix while loop.",60,33,93,5,8,0.625
+09cba3366459c29340b759597bfa0554,2019-10-21T23:01:45Z,changed -2 to -1,1,1,2,8,8,1.0
+09cba3366459c29340b759597bfa0554,2019-10-21T23:03:50Z,Update README.md,1,1,2,8,8,1.0
+09cba3366459c29340b759597bfa0554,2019-10-14T20:57:29Z,Initial commit,556,0,556,0,8,0.0
+09cba3366459c29340b759597bfa0554,2019-10-14T21:21:11Z,Update README.md,3,2,5,0,8,0.0
+09cba3366459c29340b759597bfa0554,2019-10-14T21:23:28Z,Update README.md,1,1,2,0,8,0.0
+09cba3366459c29340b759597bfa0554,2019-10-21T22:46:53Z,Fixed the command loop and made the changes to the string build on each other.,34,21,55,7,8,0.875
+f2f13a82349a034ca8db3e4a61b00b5e,2019-10-18T00:20:18Z,deleted my duplicate,0,162,162,8,8,1.0
+f2f13a82349a034ca8db3e4a61b00b5e,2019-10-18T00:46:48Z,edit remove method,5,3,8,8,8,1.0
+f2f13a82349a034ca8db3e4a61b00b5e,2019-10-20T17:35:22Z, edit lab 3,4,2,6,8,8,1.0
+f2f13a82349a034ca8db3e4a61b00b5e,2019-10-15T03:08:09Z,Initial commit,556,0,556,0,8,0.0
+f2f13a82349a034ca8db3e4a61b00b5e,2019-10-17T23:52:46Z,complette lab3 and update readme,318,26,344,0,0,-1.0
+f2f13a82349a034ca8db3e4a61b00b5e,2019-10-18T00:13:59Z,complete string mamipulator,2,14,16,0,0,-1.0
+ea308ea0677bfeb3524cdcc5fc91d77b,2019-10-23T04:28:55Z,Add files via upload,598,0,598,0,8,0.0
+37287cbd89f5620365d58f192414c0ac,2019-10-22T05:13:59Z,Initial commit,556,0,556,0,8,0.0
+37287cbd89f5620365d58f192414c0ac,2019-10-23T06:38:51Z,finished lab 3,163,0,163,0,8,0.0
+37287cbd89f5620365d58f192414c0ac,2019-10-23T06:40:01Z,Update README.md,2,2,4,0,8,0.0
+3ac43ffc9d7acc71b47cf740e12a4ea3,2019-10-23T01:59:07Z,Update StringManipulator.java,108,27,135,8,8,1.0
+3ac43ffc9d7acc71b47cf740e12a4ea3,2019-10-23T02:35:11Z,Update StringManipulator.java,56,51,107,8,8,1.0
+3ac43ffc9d7acc71b47cf740e12a4ea3,2019-10-19T23:22:51Z,Initial commit,556,0,556,0,8,0.0
+3ac43ffc9d7acc71b47cf740e12a4ea3,2019-10-19T23:24:48Z,Update README.md,2,2,4,0,8,0.0
+5c01112fb91a146b0534219868b45ca5,2019-10-16T00:33:03Z,Completed the lab,158,79,237,8,8,1.0
+5c01112fb91a146b0534219868b45ca5,2019-10-15T20:47:20Z,Initial commit,556,0,556,0,8,0.0
+941607f9a97dabbfffb745f1cd8f8f9b,2019-10-23T01:12:06Z,Initial commit,556,0,556,0,8,0.0
+e60a275c5ee71e0140d0bd89f2c7b4c0,2019-10-15T05:00:08Z,I coded the methods and started the main method,142,9,151,8,8,1.0
+e60a275c5ee71e0140d0bd89f2c7b4c0,2019-10-15T21:58:09Z,Worked on the main method,31,3,34,8,8,1.0
+e60a275c5ee71e0140d0bd89f2c7b4c0,2019-10-22T03:49:15Z,added comments on what the methods do,26,90,116,8,8,1.0
+e60a275c5ee71e0140d0bd89f2c7b4c0,2019-10-22T21:14:05Z,finished adding comments to code,8,8,16,8,8,1.0
+e60a275c5ee71e0140d0bd89f2c7b4c0,2019-10-11T00:00:13Z,Initial commit,556,0,556,0,8,0.0
+f01c6d2466ad35902d87f7a6cb81222f,2019-10-15T00:52:49Z,fixed code with comments,38,34,72,8,8,1.0
+f01c6d2466ad35902d87f7a6cb81222f,2019-10-15T23:38:28Z,Update README.md,2,2,4,8,8,1.0
+f01c6d2466ad35902d87f7a6cb81222f,2019-10-10T19:24:59Z,Initial commit,556,0,556,0,8,0.0
+f01c6d2466ad35902d87f7a6cb81222f,2019-10-14T02:57:23Z,finished methods Test 1,99,14,113,7,8,0.875
+58a7692e3048795a83eccd80ac7d5f1a,2019-10-21T19:43:02Z,finished lab 3,139,19,158,8,8,1.0
+58a7692e3048795a83eccd80ac7d5f1a,2019-10-21T19:46:09Z,Update README.md,2,2,4,8,8,1.0
+58a7692e3048795a83eccd80ac7d5f1a,2019-10-13T20:17:53Z,Initial commit,556,0,556,0,8,0.0
+a93362a1315bb7aa7bedab876784604b,2019-10-14T20:08:24Z,Attempted to fix OutOfBoundsException given by Travis CI,5,1,6,8,8,1.0
+a93362a1315bb7aa7bedab876784604b,2019-10-15T02:53:14Z,Update README.md,2,0,2,8,8,1.0
+a93362a1315bb7aa7bedab876784604b,2019-10-19T22:20:07Z,Updated validate occurance operation with full message,1,1,2,8,8,1.0
+a93362a1315bb7aa7bedab876784604b,2019-10-22T02:44:24Z,Fixed issue where program prompted user for input and immediately deemed it invalid,11,2,13,8,8,1.0
+a93362a1315bb7aa7bedab876784604b,2019-10-22T02:58:58Z,Verified that program output exactly matches that given in the appendix,17,2,19,8,8,1.0
+a93362a1315bb7aa7bedab876784604b,2019-10-10T16:29:57Z,Initial commit,556,0,556,0,8,0.0
+a93362a1315bb7aa7bedab876784604b,2019-10-10T17:27:24Z,"Basic input structure, print reverse and quit working correctly",43,7,50,0,8,0.0
+a93362a1315bb7aa7bedab876784604b,2019-10-10T17:41:25Z,Update README.md,2,2,4,0,8,0.0
+a93362a1315bb7aa7bedab876784604b,2019-10-10T17:52:36Z,Merge branch 'master' of https://github.com/wwu-csci-145/lab3-houldij,2,2,4,0,8,0.0
+a93362a1315bb7aa7bedab876784604b,2019-10-11T20:33:15Z,Added validateOccurance and validateString methods,24,9,33,2,8,0.25
+a93362a1315bb7aa7bedab876784604b,2019-10-11T21:24:20Z,"Made operation input case-insensitive, added check for valid operation entered, added goodbye message on quit entered",26,6,32,2,8,0.25
+a93362a1315bb7aa7bedab876784604b,2019-10-12T23:18:47Z,Fixed return value of replaceAll,38,22,60,4,8,0.5
+a93362a1315bb7aa7bedab876784604b,2019-10-13T20:29:46Z,All methods and inputs appear to be working correctly except replace single,40,39,79,5,8,0.625
+a93362a1315bb7aa7bedab876784604b,2019-10-14T04:39:32Z,"Added more comments, got replace single command mostly working, cleaned up syntax",32,6,38,7,8,0.875
+0d8c891b22f60e5486e69650010a49a4,2019-10-18T23:35:59Z,Fixed replaceSingle,2,2,4,8,8,1.0
+0d8c891b22f60e5486e69650010a49a4,2019-10-19T22:39:19Z,Added comments to methods,29,2,31,8,8,1.0
+0d8c891b22f60e5486e69650010a49a4,2019-10-19T22:42:09Z,Update README.md,4,2,6,8,8,1.0
+0d8c891b22f60e5486e69650010a49a4,2019-10-20T02:42:39Z,Added continous loop until 'quit' input,21,5,26,8,8,1.0
+0d8c891b22f60e5486e69650010a49a4,2019-10-20T02:44:41Z,Update README.md,1,0,1,8,8,1.0
+0d8c891b22f60e5486e69650010a49a4,2019-10-10T15:27:09Z,Initial commit,556,0,556,0,8,0.0
+0d8c891b22f60e5486e69650010a49a4,2019-10-10T16:26:36Z,added 6/7 methods,121,11,132,1,8,0.125
+0d8c891b22f60e5486e69650010a49a4,2019-10-15T17:57:18Z,worked on replaceSingle and validateOccurance,86,40,126,0,0,-1.0
+0d8c891b22f60e5486e69650010a49a4,2019-10-16T03:24:07Z,worked replaceSingle,18,15,33,4,8,0.5
+0d8c891b22f60e5486e69650010a49a4,2019-10-18T05:34:41Z,"replaceSingle replaces first instance, not other instances",9,8,17,6,8,0.75
+f2df080f36e245a20c139257dccb0bb2,2019-10-22T05:18:26Z,finished lab 3,105,23,128,8,8,1.0
+f2df080f36e245a20c139257dccb0bb2,2019-10-15T17:02:46Z,Initial commit,556,0,556,0,8,0.0
+f2df080f36e245a20c139257dccb0bb2,2019-10-15T18:07:46Z,began lab 3 framework,39,2,41,0,0,-1.0
+76380b45a0c2180f9055515599c0565d,2019-10-11T20:18:05Z,Initial commit,556,0,556,0,8,0.0
+76380b45a0c2180f9055515599c0565d,2019-10-12T00:39:02Z,first push. NOT FINISHED,43,3,46,0,0,-1.0
+76380b45a0c2180f9055515599c0565d,2019-10-14T03:30:19Z,Not finished. Transfering from work computer,99,41,140,0,0,-1.0
+76380b45a0c2180f9055515599c0565d,2019-10-19T01:27:28Z,Seccond commit. Still not done...,67,19,86,0,0,-1.0
+76380b45a0c2180f9055515599c0565d,2019-10-21T03:52:39Z,SENDING FROM MY WORK COMPUTER> WILL FINISH AT HOME,55,76,131,0,0,-1.0
+76380b45a0c2180f9055515599c0565d,2019-10-22T03:59:44Z,Almost done...,22,14,36,0,0,-1.0
+76380b45a0c2180f9055515599c0565d,2019-10-22T21:17:27Z,1st Travis try. Few bugs,184,188,372,6,8,0.75
+76380b45a0c2180f9055515599c0565d,2019-10-23T01:37:42Z,Second try,21,14,35,6,8,0.75
+76380b45a0c2180f9055515599c0565d,2019-10-23T02:39:21Z,Final Commit. Takes a user input as a string and manipulates it in 4 different ways,81,125,206,6,8,0.75
+76380b45a0c2180f9055515599c0565d,2019-10-23T02:41:51Z,Update README.md,2,2,4,6,8,0.75
+6a7268f361eb5b98fe1168295a93b325,2019-10-20T03:57:22Z,fixed return value for replaceSingle method,1,1,2,8,8,1.0
+6a7268f361eb5b98fe1168295a93b325,2019-10-12T18:38:06Z,Initial commit,556,0,556,0,8,0.0
+6a7268f361eb5b98fe1168295a93b325,2019-10-20T03:40:06Z,Wrote replaceSingle and validateStringContainsChar methods. Made it so commands will be accepted with or without capitalization and added comments into code.,69,16,85,0,0,-1.0
+6a7268f361eb5b98fe1168295a93b325,2019-10-22T06:08:09Z,wrote validateOccurance method and fixed some logic errors. Added more comments,121,52,173,5,8,0.625
+6a7268f361eb5b98fe1168295a93b325,2019-10-23T00:09:50Z,updated remove method,48,38,86,5,8,0.625
+3f492ae9ca1109be4bea34e248c958be,2019-10-14T04:11:27Z,Merge branch 'master' of https://github.com/wwu-csci-145/lab3-cole-goodnight-0,2,2,4,8,8,1.0
+3f492ae9ca1109be4bea34e248c958be,2019-10-14T05:12:54Z,final review and comment updates - done,6,0,6,8,8,1.0
+3f492ae9ca1109be4bea34e248c958be,2019-10-13T20:10:42Z,Initial commit,556,0,556,0,8,0.0
+3f492ae9ca1109be4bea34e248c958be,2019-10-14T01:32:25Z,Built user interface and finished reverse string.,75,4,79,0,8,0.0
+3f492ae9ca1109be4bea34e248c958be,2019-10-14T01:35:37Z,Update README.md,2,2,4,0,8,0.0
+06071b3fbe8cf4780404e6a06b0e7a86,2019-10-19T21:19:38Z,Initial commit,556,0,556,0,8,0.0
+06071b3fbe8cf4780404e6a06b0e7a86,2019-10-25T01:08:22Z,Edited ReadMe and created main functions.,94,49,143,0,0,-1.0
+82216a3eb60c07d0fe36f59a6c215d9c,2019-10-23T01:16:23Z,"Everything has been completely implemented and seems to work. I should switch to some switch statements maybe, work on coupling and maybe re-make some prompts if they aren't good but that isn't really necessary. Added comments and did some formating stuff. Also fixed a design flaw where when entering an incorrect instance, we would go back to the new line prompt instead of the command prompt.",171,125,296,8,8,1.0
+82216a3eb60c07d0fe36f59a6c215d9c,2019-10-23T02:05:47Z,travis ci is not building the things so I'm trying something,1,0,1,8,8,1.0
+82216a3eb60c07d0fe36f59a6c215d9c,2019-10-23T03:44:39Z,Undoing previous commit,2,3,5,8,8,1.0
+82216a3eb60c07d0fe36f59a6c215d9c,2019-10-10T20:03:35Z,Initial commit,556,0,556,0,8,0.0
+82216a3eb60c07d0fe36f59a6c215d9c,2019-10-14T21:54:57Z,"No actual changes made, only added or removed blank space while looking at the file.",45,1,46,0,8,0.0
+82216a3eb60c07d0fe36f59a6c215d9c,2019-10-16T22:46:07Z,Built all empty methods within the StringManipulator.java file except for the main method and the validateOccurance method.,74,15,89,3,8,0.375
+82216a3eb60c07d0fe36f59a6c215d9c,2019-10-20T00:19:39Z,"Fixed validateString, which always returned false. Fixed printReverse, which printed the input string without reversing it. Implemented validateOccurance. Implemented all of the inputs and outputs for the different commands except for the replace single command. All of the implemented commands seem to work as intended to me but they all need to be tested further",143,8,151,6,8,0.75
+82216a3eb60c07d0fe36f59a6c215d9c,2019-10-20T00:26:28Z,Editing the readme file.,4,2,6,6,8,0.75
+82216a3eb60c07d0fe36f59a6c215d9c,2019-10-21T22:46:21Z,"Testing all of the different methods to make sure they work as intended and handle different parameters correctly. Also asked questions during the lab and found out that I should try to split different parts of my main method into multiple methods, as well as to use switch statements to make things more readable.",23,2,25,6,8,0.75
+2d96bdcc423f4eca0f24a3f482494886,2019-10-15T17:19:21Z,Initial commit,556,0,556,0,8,0.0
+15f55a8e2302f91e099648eb59089b18,2019-10-10T18:05:17Z,"Test Passes, no user inputs",48,13,61,8,8,1.0
+15f55a8e2302f91e099648eb59089b18,2019-10-13T20:04:00Z,"added replace all, quit and reverse user commands",125,73,198,8,8,1.0
+15f55a8e2302f91e099648eb59089b18,2019-10-14T19:32:23Z,All commands but remove added,62,22,84,8,8,1.0
+15f55a8e2302f91e099648eb59089b18,2019-10-14T19:44:44Z,All commands work - needs documentation,24,9,33,8,8,1.0
+15f55a8e2302f91e099648eb59089b18,2019-10-17T20:41:40Z,"Limit to around 80-90 character lines, finished comments",41,13,54,8,8,1.0
+15f55a8e2302f91e099648eb59089b18,2019-10-10T17:07:34Z,Initial commit,556,0,556,0,8,0.0
+264227073e162dfbb1e27c65e4cbc27c,2019-10-14T19:46:12Z,Fixed validateOccurance finally. Looking forward to other errors,10,3,13,8,8,1.0
+264227073e162dfbb1e27c65e4cbc27c,2019-10-14T19:49:08Z,Everything works and I'm glad,3,1,4,8,8,1.0
+264227073e162dfbb1e27c65e4cbc27c,2019-10-14T20:11:17Z,cleaned up code and added comments,52,1,53,8,8,1.0
+264227073e162dfbb1e27c65e4cbc27c,2019-10-10T19:29:31Z,Initial commit,556,0,556,0,8,0.0
+264227073e162dfbb1e27c65e4cbc27c,2019-10-13T21:03:42Z,Changed the methods to not just return a blank string and updated the code to get user input,115,16,131,7,8,0.875
+264227073e162dfbb1e27c65e4cbc27c,2019-10-13T21:12:28Z,Changed Validate Occurence method and changed input in main,1,4,5,6,8,0.75
+264227073e162dfbb1e27c65e4cbc27c,2019-10-13T21:17:49Z,Changed Validate Occurenece menthod again,1,1,2,7,8,0.875
+264227073e162dfbb1e27c65e4cbc27c,2019-10-14T19:34:33Z,Hopefully fixed the validateOccurance method,5,9,14,6,8,0.75
+bba45183bb579534567c631425fd9617,2019-10-22T04:21:55Z,"Added another variable to validateOccurance\n\nI didn't want to mess with the number that gets put into the method (int number) but I needed a way to track which instance of a char the user wanted to replace, so I made an extra variable userNum = number so that I could keep track of what character to change without messing with the number the user input into the method.",24,7,31,8,8,1.0
+bba45183bb579534567c631425fd9617,2019-10-22T19:21:14Z,Added build status to README,2,0,2,8,8,1.0
+bba45183bb579534567c631425fd9617,2019-10-10T22:39:09Z,Initial commit,556,0,556,0,8,0.0
+bba45183bb579534567c631425fd9617,2019-10-14T23:05:12Z,added validate string (still need to work on the logic of that) and printReverse functions,59,7,66,0,8,0.0
+bba45183bb579534567c631425fd9617,2019-10-21T16:47:30Z,Added a bunch of methods. Work on in lab tomorrow\n\nNeed to sort out some bugs and logical errors in lab.,142,23,165,4,8,0.5
+bba45183bb579534567c631425fd9617,2019-10-21T23:06:29Z,Added remove function and fixed logic of program,70,19,89,7,8,0.875
+ca5aecc4c53c9f9ece61784064e356f7,2019-10-15T18:35:22Z,Created main,102,8,110,8,8,1.0
+ca5aecc4c53c9f9ece61784064e356f7,2019-10-19T06:20:24Z,Working on main,24,9,33,8,8,1.0
+ca5aecc4c53c9f9ece61784064e356f7,2019-10-19T07:27:30Z,Fixed up main and cleaned it up a bit,79,39,118,8,8,1.0
+ca5aecc4c53c9f9ece61784064e356f7,2019-10-19T07:31:20Z,Fixed main,2,2,4,8,8,1.0
+ca5aecc4c53c9f9ece61784064e356f7,2019-10-19T07:33:54Z,Updated README file,4,2,6,8,8,1.0
+ca5aecc4c53c9f9ece61784064e356f7,2019-10-13T19:37:40Z,Initial commit,556,0,556,0,8,0.0
+ca5aecc4c53c9f9ece61784064e356f7,2019-10-13T23:31:48Z,"Added all methods except validate string, testing on them still needs to be done",85,13,98,7,8,0.875
+ca5aecc4c53c9f9ece61784064e356f7,2019-10-19T07:29:18Z,Testing something with Travis,2,2,4,6,8,0.75
+7f9ed5ed83c56257653cbee33bdcffe5,2019-10-23T00:12:38Z,added methods and did some bug fixing,105,7,112,8,8,1.0
+7f9ed5ed83c56257653cbee33bdcffe5,2019-10-23T00:15:13Z,filled readme,2,2,4,8,8,1.0
+7f9ed5ed83c56257653cbee33bdcffe5,2019-10-23T05:22:28Z,added comments and added logic for some edge cases,43,31,74,8,8,1.0
+7f9ed5ed83c56257653cbee33bdcffe5,2019-10-19T07:35:35Z,Initial commit,556,0,556,0,8,0.0
+af4e9f4b04c8237c3e42ab69fac9262e,2019-10-12T07:37:17Z,this is still missing comments,254,23,277,8,8,1.0
+af4e9f4b04c8237c3e42ab69fac9262e,2019-10-12T07:38:39Z,Update README.md,4,2,6,8,8,1.0
+af4e9f4b04c8237c3e42ab69fac9262e,2019-10-20T23:31:03Z,This should be everything,1,5,6,8,8,1.0
+af4e9f4b04c8237c3e42ab69fac9262e,2019-10-22T18:16:32Z,Update README.md,1,0,1,8,8,1.0
+af4e9f4b04c8237c3e42ab69fac9262e,2019-10-11T21:44:08Z,Initial commit,556,0,556,0,8,0.0
+8ae923b3cefe6b96dcc33931d7459a61,2019-10-14T21:23:38Z,test1,191,78,269,8,8,1.0
+8ae923b3cefe6b96dcc33931d7459a61,2019-10-15T21:12:54Z,combine code and comments for cleaner code,26,47,73,8,8,1.0
+8ae923b3cefe6b96dcc33931d7459a61,2019-10-15T21:15:44Z,Update README.md,4,2,6,8,8,1.0
+8ae923b3cefe6b96dcc33931d7459a61,2019-10-13T22:47:29Z,Initial commit,556,0,556,0,8,0.0
+324c3c9c8b4421128019a69b21f82f9d,2019-10-15T04:28:02Z,Initial Implementatins of methods,51,13,64,8,8,1.0
+324c3c9c8b4421128019a69b21f82f9d,2019-10-15T04:31:18Z,travis markdown and edit,4,2,6,8,8,1.0
+324c3c9c8b4421128019a69b21f82f9d,2019-10-15T22:40:50Z,Full Test 1/need tweaks,86,4,90,8,8,1.0
+324c3c9c8b4421128019a69b21f82f9d,2019-10-16T04:37:22Z,fix double command enter,10,2,12,8,8,1.0
+324c3c9c8b4421128019a69b21f82f9d,2019-10-16T16:44:59Z,Tested user inputs1,1,2,3,8,8,1.0
+324c3c9c8b4421128019a69b21f82f9d,2019-10-18T01:08:28Z,Final_touches_1,39,40,79,8,8,1.0
+324c3c9c8b4421128019a69b21f82f9d,2019-10-13T20:00:01Z,Initial commit,556,0,556,0,8,0.0
+47dd0e7b3cffec3061383ce4687c2b11,2019-10-14T20:18:40Z,Added code for provided methods,58,15,73,8,8,1.0
+47dd0e7b3cffec3061383ce4687c2b11,2019-10-14T23:07:11Z,added user input (not finished),76,6,82,8,8,1.0
+47dd0e7b3cffec3061383ce4687c2b11,2019-10-17T00:35:16Z,finalized user input and added comments,118,85,203,8,8,1.0
+47dd0e7b3cffec3061383ce4687c2b11,2019-10-17T00:41:31Z,uncommented println statement,1,1,2,8,8,1.0
+47dd0e7b3cffec3061383ce4687c2b11,2019-10-17T22:26:08Z,Debugged and updated readme,13,2,15,8,8,1.0
+47dd0e7b3cffec3061383ce4687c2b11,2019-10-12T04:55:19Z,Initial commit,556,0,556,0,8,0.0
+b66ec4a28451b3276f764dc4327e4700,2019-10-15T20:43:01Z,Initial commit,556,0,556,0,8,0.0
+7be870569a0eb9666259b0d3be6da919,2019-10-20T18:45:35Z,"version 1\n\nImplemented all required methods. Main method supports commands ""quit"" ""print reverse"" ""replace all"" and ""replace single""",247,92,339,8,8,1.0
+7be870569a0eb9666259b0d3be6da919,2019-10-22T03:33:51Z,"version 2\n\nImplemented ""remove"" command.\nFixed validateOccurance method.\nAdded more comments.",41,11,52,8,8,1.0
+7be870569a0eb9666259b0d3be6da919,2019-10-10T20:23:38Z,Initial commit,556,0,556,0,8,0.0
+06031ff12b14bd2ea6a5214ae4b7a978,2019-10-14T23:13:48Z,Fleshed out main method to include try/catch statements.\n\nAdded comments to methods.\n\nEdited readme.,78,37,115,8,8,1.0
+06031ff12b14bd2ea6a5214ae4b7a978,2019-10-15T03:19:28Z,Added build sticker to readme,2,1,3,8,8,1.0
+06031ff12b14bd2ea6a5214ae4b7a978,2019-10-10T19:59:13Z,Initial commit,556,0,556,0,8,0.0
+06031ff12b14bd2ea6a5214ae4b7a978,2019-10-14T21:08:51Z,implemented all methods and most of the main method,149,25,174,6,8,0.75
+53b5b80c6a58a70ff95543a107862813,2019-10-14T22:40:00Z,Implimented all methods and added comments.,175,20,195,8,8,1.0
+53b5b80c6a58a70ff95543a107862813,2019-10-14T22:53:36Z,Fixed replace all command and added in some redundancies.,3,2,5,8,8,1.0
+53b5b80c6a58a70ff95543a107862813,2019-10-14T22:38:16Z,Updated README,2,2,4,0,8,0.0
+93874b59f92cb6b4ff1678ec89327bcf,2019-10-13T23:57:32Z,Initial commit,556,0,556,0,8,0.0
+48faf3082489c7a2e733552449cc23cd,2019-10-12T21:11:41Z,Fixed remove method along with implementing all validate methods,122,51,173,8,8,1.0
+48faf3082489c7a2e733552449cc23cd,2019-10-12T21:13:22Z,Update README.md,2,0,2,8,8,1.0
+48faf3082489c7a2e733552449cc23cd,2019-10-11T22:42:53Z,Initial commit,556,0,556,0,8,0.0
+48faf3082489c7a2e733552449cc23cd,2019-10-12T19:08:48Z,"created main, printReverse, replaceAll, replaceSingle, and remove",115,11,126,4,8,0.5
+5c04c48482962c6fdad41e36df3a9937,2019-10-15T21:47:25Z,everything is working properly,32,17,49,8,8,1.0
+5c04c48482962c6fdad41e36df3a9937,2019-10-15T21:49:00Z,fixed the comments,1,28,29,8,8,1.0
+5c04c48482962c6fdad41e36df3a9937,2019-10-17T19:59:47Z,Update 'README.md',2,2,4,8,8,1.0
+5c04c48482962c6fdad41e36df3a9937,2019-10-15T16:22:55Z,Initial commit,556,0,556,0,8,0.0
+5c04c48482962c6fdad41e36df3a9937,2019-10-15T18:43:22Z,not finished just temp,166,34,200,4,8,0.5
+5c04c48482962c6fdad41e36df3a9937,2019-10-15T18:50:34Z,fixed replace single and am about to leave the lab,2,1,3,7,8,0.875
+5c04c48482962c6fdad41e36df3a9937,2019-10-15T19:49:54Z,created the remove function but it doesn't work,21,10,31,7,8,0.875
+2864ce8d0e34c514df3eeace514b2ed8,2019-10-10T20:45:48Z,Initial commit,556,0,556,0,8,0.0
+2864ce8d0e34c514df3eeace514b2ed8,2019-10-16T03:24:01Z,Update .travis.yml,0,20,20,0,0,-1.0
+2864ce8d0e34c514df3eeace514b2ed8,2019-10-16T03:26:14Z,Update README.md,2,16,18,0,0,-1.0
+2864ce8d0e34c514df3eeace514b2ed8,2019-10-16T03:26:48Z,Update build.gradle,0,47,47,0,0,-1.0
+2864ce8d0e34c514df3eeace514b2ed8,2019-10-16T04:53:31Z,Update build.gradle,1,1,2,0,0,-1.0
+2864ce8d0e34c514df3eeace514b2ed8,2019-10-16T04:53:47Z,Update README.md,1,1,2,0,0,-1.0
+2864ce8d0e34c514df3eeace514b2ed8,2019-10-16T17:38:55Z,Delete StringManipulator.java,0,189,189,0,0,-1.0
+2864ce8d0e34c514df3eeace514b2ed8,2019-10-16T17:39:06Z,Delete StringManipulator.class,0,0,0,0,0,-1.0
+2864ce8d0e34c514df3eeace514b2ed8,2019-10-16T17:39:40Z,Add files via upload,216,0,216,0,0,-1.0
+063846b1670d38305f530f8b172efbfe,2019-10-14T20:47:46Z,first attempt,142,16,158,8,8,1.0
+063846b1670d38305f530f8b172efbfe,2019-10-14T20:49:37Z,Update README.md,2,2,4,8,8,1.0
+063846b1670d38305f530f8b172efbfe,2019-10-14T20:56:14Z,Update README.md,4,0,4,8,8,1.0
+063846b1670d38305f530f8b172efbfe,2019-10-15T19:26:57Z,added comments,6,2,8,8,8,1.0
+063846b1670d38305f530f8b172efbfe,2019-10-13T22:20:57Z,Initial commit,556,0,556,0,8,0.0
+088ea9aa22f3de0ae3198bab830a3bd7,2019-10-15T18:16:31Z,"technically finished, but attempting to clean it up. Pushing to git before I likely completely break this",42,70,112,8,8,1.0
+088ea9aa22f3de0ae3198bab830a3bd7,2019-10-20T01:10:54Z,"As cleaned up as I can think to make it. Changed if/else to switch case, cleaned up other if statements to have less continues, and added some comments.",84,86,170,8,8,1.0
+088ea9aa22f3de0ae3198bab830a3bd7,2019-10-20T01:15:57Z,Update README.md,2,2,4,8,8,1.0
+088ea9aa22f3de0ae3198bab830a3bd7,2019-10-20T01:19:29Z,Update README.md,2,0,2,8,8,1.0
+088ea9aa22f3de0ae3198bab830a3bd7,2019-10-22T20:10:07Z,Fixed an oob error,26,11,37,8,8,1.0
+088ea9aa22f3de0ae3198bab830a3bd7,2019-10-14T22:11:00Z,Initial commit,556,0,556,0,8,0.0
+088ea9aa22f3de0ae3198bab830a3bd7,2019-10-15T00:51:10Z,"Finished validateStringContainsChar, printReverse, replaceAll, validateOccurance, replaceSingle, and validateString methods; still need to finish main and remove methods and make sure commenting is accurate.",145,15,160,3,8,0.375
+ab5d7f14cda9e89cc71e1d071926fbdd,2019-10-23T04:24:38Z,Update StringManipulator.java,161,167,328,8,8,1.0
+ab5d7f14cda9e89cc71e1d071926fbdd,2019-10-23T05:18:05Z,Update StringManipulator.java,26,65,91,8,8,1.0
+ab5d7f14cda9e89cc71e1d071926fbdd,2019-10-14T21:51:21Z,Initial commit,556,0,556,0,8,0.0
+ab5d7f14cda9e89cc71e1d071926fbdd,2019-10-15T17:02:01Z,Update README.md,3,2,5,0,8,0.0
+ab5d7f14cda9e89cc71e1d071926fbdd,2019-10-23T04:05:01Z,Update StringManipulator.java,230,14,244,0,0,-1.0
+becec7e6f3255e280d9b258b53cbebf3,2019-10-22T23:09:59Z,Update StringManipulator.java,179,92,271,8,8,1.0
+becec7e6f3255e280d9b258b53cbebf3,2019-10-13T14:58:52Z,Initial commit,556,0,556,0,8,0.0
+becec7e6f3255e280d9b258b53cbebf3,2019-10-13T15:02:32Z,Update README.md,2,2,4,0,8,0.0
+d0387c14edd846e54ae2f1389b9b79c0,2019-10-15T17:31:37Z,Fixed Remove method and added char validation,26,18,44,8,8,1.0
+d0387c14edd846e54ae2f1389b9b79c0,2019-10-19T21:29:10Z,Tried to ensure methods change actual string,6,3,9,8,8,1.0
+d0387c14edd846e54ae2f1389b9b79c0,2019-10-10T20:29:24Z,Initial commit,556,0,556,0,8,0.0
+d0387c14edd846e54ae2f1389b9b79c0,2019-10-10T20:43:22Z,Filled in README.md and added Travis build token,51,3,54,0,8,0.0
+d0387c14edd846e54ae2f1389b9b79c0,2019-10-11T20:27:30Z,Added main logic and completed validateString,26,2,28,0,8,0.0
+d0387c14edd846e54ae2f1389b9b79c0,2019-10-11T20:54:15Z,Completed some methods and added TODO notes,24,21,45,0,8,0.0
+d0387c14edd846e54ae2f1389b9b79c0,2019-10-11T22:16:03Z,"Completed all methods, debug begins",61,13,74,7,8,0.875
+d0387c14edd846e54ae2f1389b9b79c0,2019-10-11T23:08:07Z,Added more TODOs and a debugging checklist,22,16,38,7,8,0.875
+d0387c14edd846e54ae2f1389b9b79c0,2019-10-12T01:38:12Z,Now validating string length properly,8,4,12,7,8,0.875
+a95a71ca39aa2b0a1b0b20b368cbe353,2019-10-23T04:27:37Z,Code by Asher Didier. Submitted Lab 3 (String Manipulator) to GitHub and updated readme,307,99,406,8,8,1.0
+a95a71ca39aa2b0a1b0b20b368cbe353,2019-10-23T04:28:38Z,Update README.md,2,2,4,8,8,1.0
+a95a71ca39aa2b0a1b0b20b368cbe353,2019-10-12T00:20:55Z,Initial commit,556,0,556,0,8,0.0
+ce53ba0e10791a11389f213ad631b6ac,2019-10-23T00:42:35Z,Update StringManipulator.java\n\nDemonstrates use of function calls and string manipulation,127,95,222,0,0,-1.0
+ce16b4956de2a30c21bee05e59b9bcf6,2019-10-17T23:41:21Z,first try,387,22,409,8,8,1.0
+ce16b4956de2a30c21bee05e59b9bcf6,2019-10-20T01:00:13Z,Editted final version (more comments),13,4,17,8,8,1.0
+ce16b4956de2a30c21bee05e59b9bcf6,2019-10-12T21:43:33Z,Initial commit,556,0,556,0,8,0.0
+559d028664c229fa9fb731d14c41c91c,2019-10-17T21:37:25Z,"fixed validate occurance, no more minus 1",2,1,3,8,8,1.0
+559d028664c229fa9fb731d14c41c91c,2019-10-17T21:57:04Z,"fixed validate occurance, no more minus 1",57,44,101,8,8,1.0
+559d028664c229fa9fb731d14c41c91c,2019-10-20T15:07:36Z,edited readme,2,2,4,8,8,1.0
+559d028664c229fa9fb731d14c41c91c,2019-10-13T14:59:32Z,Initial commit,556,0,556,0,8,0.0
+559d028664c229fa9fb731d14c41c91c,2019-10-17T20:46:27Z,finished off the program with all methods,465,18,483,6,8,0.75
+559d028664c229fa9fb731d14c41c91c,2019-10-17T20:50:25Z,fixed validate ocurance return value,2,2,4,6,8,0.75
+559d028664c229fa9fb731d14c41c91c,2019-10-17T21:30:42Z,fixed validate occurance,12,8,20,6,8,0.75
+46eed3e009a3baefbff0f2882a1a1201,2019-10-20T00:36:16Z,"Updated README.md, completed input handling",122,27,149,8,8,1.0
+46eed3e009a3baefbff0f2882a1a1201,2019-10-13T21:31:42Z,Initial commit,556,0,556,0,8,0.0
+46eed3e009a3baefbff0f2882a1a1201,2019-10-13T22:40:26Z,"Added all methods, just need to get input working correctly",141,75,216,0,0,-1.0
+54650a6ce7e90b5a08dd945aa0db5ca5,2019-10-22T23:03:52Z,Initial commit,556,0,556,0,8,0.0
+54650a6ce7e90b5a08dd945aa0db5ca5,2019-10-22T23:27:59Z,added original code and validateocurrance,248,5,253,0,0,-1.0
+54650a6ce7e90b5a08dd945aa0db5ca5,2019-10-23T06:39:15Z,Update StringManipulator.java,13,140,153,0,0,-1.0
+54650a6ce7e90b5a08dd945aa0db5ca5,2019-10-23T06:39:46Z,Update StringManipulator.java,0,28,28,0,0,-1.0
+54650a6ce7e90b5a08dd945aa0db5ca5,2019-12-06T08:25:13Z,Changed the code to actually run\n\nRe-wrote the whole assignment so the code will actually run.,387,165,552,0,0,-1.0
+54650a6ce7e90b5a08dd945aa0db5ca5,2019-12-06T08:37:07Z,Update StringManipulator.java,8,8,16,0,0,-1.0
+54650a6ce7e90b5a08dd945aa0db5ca5,2019-12-06T08:45:12Z,Update README.md,2,1,3,0,0,-1.0
+54650a6ce7e90b5a08dd945aa0db5ca5,2019-12-06T08:47:52Z,Update StringManipulator.java,38,40,78,3,8,0.375
+54650a6ce7e90b5a08dd945aa0db5ca5,2019-12-06T08:45:59Z,Update README.md,2,2,4,0,0,-1.0
+d8f1e63a9c936f533de9510a61697bbe,2019-10-20T22:31:52Z,Small edit,1,0,1,8,8,1.0
+d8f1e63a9c936f533de9510a61697bbe,2019-10-13T16:58:13Z,Initial commit,556,0,556,0,8,0.0
+83f55f84ff5ab960097c0926dceb6a6b,2019-10-15T18:41:59Z,Implemented all methods besides replaceSingle and finished the main method,45,18,63,8,8,1.0
+83f55f84ff5ab960097c0926dceb6a6b,2019-10-21T20:41:19Z,"Finished testing and debugging program, everything is working",28,29,57,8,8,1.0
+83f55f84ff5ab960097c0926dceb6a6b,2019-10-23T02:50:49Z,Update README.md,4,2,6,8,8,1.0
+83f55f84ff5ab960097c0926dceb6a6b,2019-10-10T18:30:23Z,Initial commit,556,0,556,0,8,0.0
+83f55f84ff5ab960097c0926dceb6a6b,2019-10-13T21:11:28Z,implemented some of the methods,58,15,73,0,0,-1.0
+83f55f84ff5ab960097c0926dceb6a6b,2019-10-13T22:15:50Z,"made some changes to certain functions, still not finished",36,10,46,2,8,0.25
+942fb87f07c92365befd04437a5654c3,2019-10-22T00:37:42Z,Hopefully this validate works now,24,10,34,8,8,1.0
+942fb87f07c92365befd04437a5654c3,2019-10-22T01:20:05Z,The validate works! I've added all my comments in.,39,88,127,8,8,1.0
+942fb87f07c92365befd04437a5654c3,2019-10-22T23:08:47Z,Attached the validateOccurance to replaceSingle,9,2,11,8,8,1.0
+942fb87f07c92365befd04437a5654c3,2019-10-23T03:14:16Z,Added a validate to replaceSingle's selection,15,1,16,8,8,1.0
+942fb87f07c92365befd04437a5654c3,2019-10-13T15:01:28Z,Initial commit,556,0,556,0,8,0.0
+942fb87f07c92365befd04437a5654c3,2019-10-13T16:51:53Z,"Finished the main methods, still need to do the validate ones",154,22,176,0,0,-1.0
+942fb87f07c92365befd04437a5654c3,2019-10-20T15:54:48Z,Finished doing the validates,64,11,75,5,8,0.625
+942fb87f07c92365befd04437a5654c3,2019-10-20T15:58:34Z,Did my README,2,2,4,5,8,0.625
+088c7486b6a296dc56904f66a0172360,2019-10-19T10:58:18Z,Check before commenting,4,0,4,8,8,1.0
+088c7486b6a296dc56904f66a0172360,2019-10-21T20:48:37Z,Updated version with comments,9,2,11,8,8,1.0
+088c7486b6a296dc56904f66a0172360,2019-10-11T04:38:13Z,Initial commit,556,0,556,0,8,0.0
+088c7486b6a296dc56904f66a0172360,2019-10-19T08:06:25Z,First check on Travis,135,15,150,0,0,-1.0
+088c7486b6a296dc56904f66a0172360,2019-10-19T08:07:58Z,Update README.md,4,2,6,0,0,-1.0
+a69f0cc027d72a35e96d9ee7f84da64a,2019-10-16T00:29:39Z,Initial commit,556,0,556,0,8,0.0
+a0009422a20973b2eb4d6f4c4302da50,2019-10-22T07:43:07Z,Updated README.md and completed StringManipulator methods.\n\nCompleted lab 3 methods\n-validateString\n-validateStringContainsChar\n-printReverse\n-replaceAll\n-validateOccurance\n-replaceSingle\n-remove\nand created\n-inputChar\n-inputString,205,19,224,8,8,1.0
+a0009422a20973b2eb4d6f4c4302da50,2019-10-22T07:54:33Z,Update README.md\n\nFixed sentence in README.md after merge.,3,2,5,8,8,1.0
+a0009422a20973b2eb4d6f4c4302da50,2019-10-20T09:20:01Z,Initial commit,556,0,556,0,8,0.0
+9634a3b675b258e080337d7f81ff04ce,2019-10-15T00:42:30Z,Finished coding and implementing the rest of the mandatory methods. (Note: Stillneed to go through and add comments.),89,28,117,8,8,1.0
+9634a3b675b258e080337d7f81ff04ce,2019-10-15T00:55:26Z,Finished coding and implementing the rest of the mandatory methods. (Note: Stillneed to go through and add comments.),2,2,4,8,8,1.0
+9634a3b675b258e080337d7f81ff04ce,2019-10-16T17:53:22Z,Got rid of unnecessary code (using inputReceived variable when it was not needed) and wrote and implemented a function that doesn't initiate the user's command if the user enters more than one character when prompted to only enter one.,50,47,97,8,8,1.0
+9634a3b675b258e080337d7f81ff04ce,2019-10-20T18:06:28Z,"Added comments that explain each method, each branch of the if-else tree in main, and examples of each command.",100,35,135,8,8,1.0
+9634a3b675b258e080337d7f81ff04ce,2019-10-12T23:30:21Z,Initial commit,556,0,556,0,8,0.0
+167ae1caeee34b99a6a0e267ed17a25c,2019-10-23T01:16:46Z,uncomment getGreet method and update readme,1,1,2,8,8,1.0
+167ae1caeee34b99a6a0e267ed17a25c,2019-10-12T20:09:33Z,Initial commit,556,0,556,0,8,0.0
+167ae1caeee34b99a6a0e267ed17a25c,2019-10-20T22:55:37Z,uncomment getGreet method and update readme,100,18,118,0,0,-1.0
+167ae1caeee34b99a6a0e267ed17a25c,2019-10-22T02:14:54Z,Update README.md,4,2,6,5,8,0.625
+cc1655f14d691ce3b1b6eae3afaf177c,2019-10-20T21:26:32Z,Initial commit,556,0,556,0,8,0.0
+b16ecd575b5c245cb6c7e17928e866ff,2019-10-22T05:55:06Z,Update StringManipulator.java,172,101,273,8,8,1.0
+b16ecd575b5c245cb6c7e17928e866ff,2019-10-20T17:14:54Z,Initial commit,556,0,556,0,8,0.0
+b16ecd575b5c245cb6c7e17928e866ff,2019-10-21T05:34:56Z,Update README.md,2,2,4,0,8,0.0
+41c969c2f0ce0ba77d60d8fb49775edd,2019-10-13T04:44:16Z,forgot to change the README file,3,2,5,8,8,1.0
+41c969c2f0ce0ba77d60d8fb49775edd,2019-10-23T00:24:28Z,quick changes to make the program run smoother,10,8,18,8,8,1.0
+41c969c2f0ce0ba77d60d8fb49775edd,2019-10-11T21:56:44Z,Initial commit,556,0,556,0,8,0.0
+60a8ad0cf4b2f20d301e95103e69f112,2019-10-16T23:09:46Z,Initial commit,556,0,556,0,8,0.0
+60a8ad0cf4b2f20d301e95103e69f112,2019-10-21T08:08:59Z,"Created code for the methods: validateString, validateStringContainsChar, printReverse, replaceAll, validateOccurance, remove.",76,17,93,6,8,0.75
+60a8ad0cf4b2f20d301e95103e69f112,2019-10-22T08:25:38Z,"replaceAll function added, switch statement added allowing the user to choose commands",99,79,178,6,8,0.75
+5eb51e619ca1f408ebc8a87681376aa1,2019-10-23T03:49:25Z,"Completely missed the mark on validateOccurance, fixed",5,7,12,8,8,1.0
+5eb51e619ca1f408ebc8a87681376aa1,2019-10-23T03:56:57Z,updated readme.md,2,0,2,8,8,1.0
+5eb51e619ca1f408ebc8a87681376aa1,2019-10-23T04:13:30Z,updated readme.md,42,42,84,8,8,1.0
+5eb51e619ca1f408ebc8a87681376aa1,2019-10-21T00:37:23Z,Initial commit,556,0,556,0,8,0.0
+5eb51e619ca1f408ebc8a87681376aa1,2019-10-23T03:18:50Z,"Completed lab 3, waiting for travis ci to check",275,101,376,6,8,0.75
+9ad9e973af852b1ab6e9284f452731bb,2019-10-23T08:40:48Z,fixed issue causing travis to fail,2,2,4,8,8,1.0
+9ad9e973af852b1ab6e9284f452731bb,2019-10-15T17:28:05Z,Initial commit,556,0,556,0,8,0.0
+9ad9e973af852b1ab6e9284f452731bb,2019-10-23T08:37:16Z,"added methods for replacing, removing, reversing, and fact checking, and added user functionality",211,17,228,6,8,0.75
+0fbb301f9cfb0b85538cbc4bc3f41c3c,2019-10-13T02:27:00Z,"fixxed bug, replace single still repeats phrases",2,2,4,8,8,1.0
+0fbb301f9cfb0b85538cbc4bc3f41c3c,2019-10-13T02:52:49Z,Update README.md,2,0,2,8,8,1.0
+0fbb301f9cfb0b85538cbc4bc3f41c3c,2019-10-11T20:13:35Z,Initial commit,556,0,556,0,8,0.0
+0fbb301f9cfb0b85538cbc4bc3f41c3c,2019-10-11T23:21:29Z,Program will ask user for a string til given. Quit command works anytime. Print reverse works. ---IN PROGRESS---,54,12,66,0,8,0.0
+0fbb301f9cfb0b85538cbc4bc3f41c3c,2019-10-11T23:36:35Z,BUG FIX: Program now detects commands in upper/lowercase,11,4,15,0,8,0.0
+0fbb301f9cfb0b85538cbc4bc3f41c3c,2019-10-12T22:45:28Z,Everything works execpt remove and remove single,36,11,47,2,8,0.25
+0fbb301f9cfb0b85538cbc4bc3f41c3c,2019-10-13T02:21:30Z,"everything works, bug with remove single -repeats certian phrases",41,8,49,7,8,0.875
+93564e1dde29c770cbbc47f54f1d8e0b,2019-10-20T01:14:34Z,Initial commit,556,0,556,0,8,0.0
+93564e1dde29c770cbbc47f54f1d8e0b,2019-10-21T21:57:45Z,Added working functions and completed main,180,71,251,0,0,-1.0
+93564e1dde29c770cbbc47f54f1d8e0b,2019-10-29T17:07:21Z,Removing test.java file as it interferes with Gradle tests,0,7,7,7,8,0.875
+cffe0597ee7726fc75089f9218770f1a,2019-10-20T03:34:52Z,"Finished User Interface and added Functioning Methods, Still need to catch errors and exceptions",192,79,271,8,8,1.0
+cffe0597ee7726fc75089f9218770f1a,2019-10-20T04:41:39Z,Update README.md,3,1,4,8,8,1.0
+cffe0597ee7726fc75089f9218770f1a,2019-10-20T20:37:02Z,Added comments and fixed some bugs that resulted in the program throwing an exception when it wasn't suppose to (remove method),9,1,10,8,8,1.0
+cffe0597ee7726fc75089f9218770f1a,2019-10-20T20:38:47Z,Update README.md,2,9,11,8,8,1.0
+cffe0597ee7726fc75089f9218770f1a,2019-10-21T00:34:29Z,Merge branch 'master' of https://github.com/wwu-csci-145-2/lab3-Henry-Il,2,9,11,8,8,1.0
+cffe0597ee7726fc75089f9218770f1a,2019-10-13T15:02:12Z,Initial commit,556,0,556,0,8,0.0
+cffe0597ee7726fc75089f9218770f1a,2019-10-13T16:06:43Z,Added user interface,54,3,57,0,8,0.0
+cffe0597ee7726fc75089f9218770f1a,2019-10-13T16:28:28Z,"Edited user interface, added variables for different methods in the main method.",35,7,42,0,8,0.0
+58be439de4a1012c6ba1c86c8cff892c,2019-10-21T00:03:03Z,Final copy of code,181,15,196,8,8,1.0
+58be439de4a1012c6ba1c86c8cff892c,2019-10-21T00:11:53Z,Final copy of code,1,1,2,8,8,1.0
+58be439de4a1012c6ba1c86c8cff892c,2019-10-13T14:50:18Z,Initial commit,556,0,556,0,8,0.0
+58be439de4a1012c6ba1c86c8cff892c,2019-10-21T00:10:16Z,Final copy of code,1,0,1,0,0,-1.0
+75c61189aaff00dc25498d514aaaffdd,2019-10-23T03:28:52Z,All Method Unison,148,102,250,8,8,1.0
+75c61189aaff00dc25498d514aaaffdd,2019-10-23T03:29:45Z,Update README.md,2,2,4,8,8,1.0
+75c61189aaff00dc25498d514aaaffdd,2019-10-15T16:57:51Z,Initial commit,556,0,556,0,8,0.0
+75c61189aaff00dc25498d514aaaffdd,2019-10-15T18:38:50Z,reversal,36,8,44,0,8,0.0
+75c61189aaff00dc25498d514aaaffdd,2019-10-22T18:47:26Z,Testing Testing,81,24,105,0,0,-1.0
+b8b78c732c79d83bbdc49ddc6dae150a,2019-10-13T03:51:38Z,"finished methods, need comments and fixed input",158,20,178,8,8,1.0
+b8b78c732c79d83bbdc49ddc6dae150a,2019-10-13T18:40:19Z,fixed methods and added comments,247,228,475,8,8,1.0
+b8b78c732c79d83bbdc49ddc6dae150a,2019-10-18T22:12:57Z,fixed integer user input and added comments,119,114,233,8,8,1.0
+b8b78c732c79d83bbdc49ddc6dae150a,2019-10-12T20:28:16Z,Initial commit,556,0,556,0,8,0.0
+9321683acb42dd46a18b5c3725ff0bdf,2019-10-23T04:44:31Z,Update StringManipulator.java,35,10,45,8,8,1.0
+9321683acb42dd46a18b5c3725ff0bdf,2019-10-22T21:08:16Z,Initial commit,556,0,556,0,8,0.0
+9321683acb42dd46a18b5c3725ff0bdf,2019-10-23T03:08:36Z,initial commit and changes,59,1,60,0,8,0.0
+a66f0aef2a6f945e42bca47576da4f32,2019-10-22T18:53:51Z,Update StringManipulator.java,123,25,148,8,8,1.0
+a66f0aef2a6f945e42bca47576da4f32,2019-10-20T17:09:23Z,Initial commit,556,0,556,0,8,0.0
+a66f0aef2a6f945e42bca47576da4f32,2019-10-22T18:53:00Z,Update README.md,3,2,5,0,8,0.0
+54bab9f847684930cfa031631809e4f6,2019-10-22T07:26:03Z,Update StringManipulator.java,147,70,217,8,8,1.0
+54bab9f847684930cfa031631809e4f6,2019-10-22T18:31:00Z,Update StringManipulator.java,36,28,64,8,8,1.0
+54bab9f847684930cfa031631809e4f6,2019-10-23T05:27:06Z,Update README.md,2,2,4,8,8,1.0
+54bab9f847684930cfa031631809e4f6,2019-10-13T22:56:20Z,Initial commit,556,0,556,0,8,0.0
+cdeb5330ab9998974a302572a9803b02,2019-10-15T19:40:50Z,Finished lab,82,18,100,8,8,1.0
+cdeb5330ab9998974a302572a9803b02,2019-10-17T21:58:19Z,"Added error output for invalid commands, added quit to printed list of commands",3,0,3,8,8,1.0
+cdeb5330ab9998974a302572a9803b02,2019-10-20T18:51:23Z,Added errors for invalid inputs,28,24,52,8,8,1.0
+cdeb5330ab9998974a302572a9803b02,2019-10-15T03:11:12Z,Initial commit,556,0,556,0,8,0.0
+cdeb5330ab9998974a302572a9803b02,2019-10-15T17:42:45Z,Class work,45,25,70,0,8,0.0
+30cb82675b2c6cfd46b6811465bdc353,2019-10-23T00:32:44Z,Initial commit,556,0,556,0,8,0.0
+30cb82675b2c6cfd46b6811465bdc353,2019-10-23T06:50:42Z,Update README.md,2,2,4,0,8,0.0
+30cb82675b2c6cfd46b6811465bdc353,2019-10-23T06:51:54Z,Update StringManipulator.java,51,17,68,6,8,0.75
+f3f8a662aa654dd633c67edd6117eba0,2019-10-22T18:12:00Z,Merge branch 'master' of https://github.com/wwu-csci-145-2/lab3-aiden-zappone,0,0,0,8,8,1.0
+f3f8a662aa654dd633c67edd6117eba0,2019-10-23T06:23:25Z,Update README.md,0,237,237,8,8,1.0
+f3f8a662aa654dd633c67edd6117eba0,2019-10-23T06:25:31Z,Update README.md,2,0,2,8,8,1.0
+f3f8a662aa654dd633c67edd6117eba0,2019-10-15T17:05:29Z,Initial commit,556,0,556,0,8,0.0
+f3f8a662aa654dd633c67edd6117eba0,2019-10-15T18:46:47Z,"completed some methods, still need to work on",50,9,59,0,0,-1.0
+f3f8a662aa654dd633c67edd6117eba0,2019-10-22T16:37:31Z,Update README.md,234,1,235,0,0,-1.0
+46893a37796ca5ce9a0f11d226f6efce,2019-10-20T04:24:24Z,Initial commit,556,0,556,0,8,0.0
+d5640462bac623055b32d1b16d57c8a7,2019-10-20T05:53:54Z,Initial commit,556,0,556,0,8,0.0
+d5640462bac623055b32d1b16d57c8a7,2019-10-23T03:31:07Z,String Manipulator,215,53,268,5,8,0.625
+d5640462bac623055b32d1b16d57c8a7,2019-10-23T03:33:11Z,Update README.md,4,2,6,5,8,0.625
+d5640462bac623055b32d1b16d57c8a7,2019-10-23T03:33:42Z,Update README.md,1,1,2,5,8,0.625
+d5640462bac623055b32d1b16d57c8a7,2019-10-23T04:18:05Z,error fixed,4,2,6,7,8,0.875
+d5640462bac623055b32d1b16d57c8a7,2019-10-23T04:26:10Z,Update README.md,20,0,20,7,8,0.875
+d6627c2192d17dbb16d03cef6b528047,2019-10-18T07:43:41Z,yay,23,14,37,8,8,1.0
+d6627c2192d17dbb16d03cef6b528047,2019-10-18T07:45:59Z,yo,2,2,4,8,8,1.0
+d6627c2192d17dbb16d03cef6b528047,2019-10-15T17:28:40Z,Initial commit,556,0,556,0,8,0.0
+d6627c2192d17dbb16d03cef6b528047,2019-10-18T07:00:28Z,yay,130,19,149,0,0,-1.0
+c7ce2d7f944786d8530a03c52ff892de,2019-10-22T17:08:40Z,fixed problem with double printing,203,90,293,6,8,0.75
+c7ce2d7f944786d8530a03c52ff892de,2019-10-22T17:15:48Z,made remove mutate the string,2,1,3,6,8,0.75
+c7ce2d7f944786d8530a03c52ff892de,2019-10-22T17:32:03Z,Allowed for random capitals in command,1,1,2,7,8,0.875
+c7ce2d7f944786d8530a03c52ff892de,2019-10-22T17:36:00Z,Allowed for random capitals in command,31,31,62,7,8,0.875
+4f429b22038ef6163ef96d9927a43a6a,2019-10-16T22:53:57Z,Initial commit,556,0,556,0,8,0.0
+4f429b22038ef6163ef96d9927a43a6a,2019-10-17T15:33:33Z,progress,45,3,48,0,0,-1.0
+4f429b22038ef6163ef96d9927a43a6a,2019-10-21T19:44:20Z,progress,30,10,40,0,0,-1.0
+4f429b22038ef6163ef96d9927a43a6a,2019-10-23T05:32:05Z,progress,90,9,99,0,0,-1.0
+4f429b22038ef6163ef96d9927a43a6a,2019-10-23T06:53:10Z,finished program,96,87,183,4,8,0.5
+4f429b22038ef6163ef96d9927a43a6a,2019-10-23T06:58:26Z,updated,2,0,2,4,8,0.5
+4f429b22038ef6163ef96d9927a43a6a,2019-10-23T06:59:24Z,updated,1,1,2,4,8,0.5
+4f429b22038ef6163ef96d9927a43a6a,2019-10-23T07:00:52Z,updated,1,0,1,4,8,0.5
+4f429b22038ef6163ef96d9927a43a6a,2019-10-23T07:01:53Z,Update README.md,2,2,4,4,8,0.5
+7400f5742c0a16e37d030866c11c9945,2019-10-13T15:35:30Z,Initial commit,556,0,556,0,8,0.0
+7400f5742c0a16e37d030866c11c9945,2019-10-23T02:46:21Z,"made variables for the methods,operating with main",2,2,4,0,0,-1.0
+8307d0a0e8f3d03b6f5fd9ba1972c0ee,2019-10-21T21:41:43Z,Might have fixed Replace Single bug,10,7,17,8,8,1.0
+8307d0a0e8f3d03b6f5fd9ba1972c0ee,2019-10-22T08:10:43Z,Deleted dead code,11,30,41,8,8,1.0
+8307d0a0e8f3d03b6f5fd9ba1972c0ee,2019-10-22T19:26:47Z,added final comments. Final push.,6,8,14,8,8,1.0
+8307d0a0e8f3d03b6f5fd9ba1972c0ee,2019-10-12T03:31:38Z,Initial commit,556,0,556,0,8,0.0
+8307d0a0e8f3d03b6f5fd9ba1972c0ee,2019-10-13T00:36:15Z,First method confirming string works,49,53,102,0,8,0.0
+8307d0a0e8f3d03b6f5fd9ba1972c0ee,2019-10-15T23:56:48Z,Got quit and print reverse working,38,14,52,0,8,0.0
+8307d0a0e8f3d03b6f5fd9ba1972c0ee,2019-10-17T22:11:49Z,Fixed command printing twice error and finished validateStringContainsChar method,54,14,68,2,8,0.25
+8307d0a0e8f3d03b6f5fd9ba1972c0ee,2019-10-20T20:47:50Z,Possibly completed the lab,28,19,47,6,8,0.75
+8307d0a0e8f3d03b6f5fd9ba1972c0ee,2019-10-20T20:50:13Z,Update README.md,3,2,5,6,8,0.75
+8307d0a0e8f3d03b6f5fd9ba1972c0ee,2019-10-21T21:18:09Z,Merge branch 'master' of https://github.com/wwu-csci-145-2/lab3-morimos2,3,2,5,6,8,0.75
+60b7d9b554b6ec32856829a794b3d210,2019-12-04T06:10:13Z,Update StringManipulator.java,1,1,2,8,8,1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-04T05:55:24Z,Update StringManipulator.java,3,3,6,8,8,1.0
+60b7d9b554b6ec32856829a794b3d210,2019-10-17T18:04:43Z,Initial commit,556,0,556,0,8,0.0
+60b7d9b554b6ec32856829a794b3d210,2019-11-05T05:24:18Z,Update StringManipulator.java,182,104,286,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-11-05T06:52:38Z,Update README.md,2,2,4,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-03T19:17:34Z,Update StringManipulator.java\n\nUpdated (typos),2,1,3,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-03T19:47:32Z,Update StringManipulator.java,4,4,8,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-03T20:15:33Z,Update StringManipulator.java\n\nUpdated Version (typos),5,7,12,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-03T20:43:49Z,Update StringManipulator.java\n\nUpdated (typos after ln 82),7,20,27,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-04T04:25:55Z,Update StringManipulator.java\n\nUpdated Version (typos),7,24,31,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-04T04:37:02Z,Update StringManipulator.java\n\nUpdated Version,12,12,24,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-04T04:46:33Z,Update StringManipulator.java,2,2,4,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-04T04:53:46Z,Update StringManipulator.java,5,5,10,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-04T05:29:50Z,Update StringManipulator.java,124,130,254,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-04T05:32:09Z,Update StringManipulator.java\n\nUpdated Version,1,1,2,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-04T05:36:36Z,Update StringManipulator.java\n\nUpdated Version,1,1,2,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-04T05:42:10Z,Update StringManipulator.java,3,3,6,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-04T05:44:57Z,Update StringManipulator.java\n\nUpdated Version,1,1,2,0,0,-1.0
+60b7d9b554b6ec32856829a794b3d210,2019-12-04T05:50:34Z,Update StringManipulator.java,2,2,4,0,0,-1.0
+a413cffc0d030846d74632fa1313f849,2019-10-22T18:12:44Z,Created all the methods and implemented them with logic for a user to interact with and change a chosen sentance/String using these methods,167,84,251,8,8,1.0
+a413cffc0d030846d74632fa1313f849,2019-10-12T03:22:21Z,Initial commit,556,0,556,0,8,0.0
+35277e805c619d5e34391090b9ffeb26,2019-10-22T00:48:39Z,fixing bugs,10,8,18,8,8,1.0
+35277e805c619d5e34391090b9ffeb26,2019-10-22T00:50:47Z,fixing bugs,1,2,3,8,8,1.0
+35277e805c619d5e34391090b9ffeb26,2019-10-22T01:53:19Z,commenting lines,4,9,13,8,8,1.0
+35277e805c619d5e34391090b9ffeb26,2019-10-22T02:00:35Z,Update README.md,3,3,6,8,8,1.0
+35277e805c619d5e34391090b9ffeb26,2019-10-22T02:00:56Z,Update README.md,1,1,2,8,8,1.0
+35277e805c619d5e34391090b9ffeb26,2019-10-22T02:01:10Z,Update README.md,1,1,2,8,8,1.0
+35277e805c619d5e34391090b9ffeb26,2019-10-13T17:00:16Z,Initial commit,556,0,556,0,8,0.0
+35277e805c619d5e34391090b9ffeb26,2019-10-20T17:57:13Z,Looking for bugs in finished functions,252,19,271,0,0,-1.0
+35277e805c619d5e34391090b9ffeb26,2019-10-21T23:16:55Z,fixing bugs,26,21,47,0,0,-1.0
+35277e805c619d5e34391090b9ffeb26,2019-10-21T23:31:43Z,fixing bugs,3,3,6,6,8,0.75
+35277e805c619d5e34391090b9ffeb26,2019-10-21T23:50:22Z,fixing bugs,1,1,2,6,8,0.75
+35277e805c619d5e34391090b9ffeb26,2019-10-22T01:40:34Z,fixing bugs,63,109,172,0,0,-1.0
+fd4b32e1e87af20c5229ab79def2f18d,2019-10-17T23:42:36Z,Cleaning up code and adjusting functionality,64,34,98,8,8,1.0
+fd4b32e1e87af20c5229ab79def2f18d,2019-10-17T21:59:38Z,Initial commit. Added the majority of the program functionality -- still need to debug and revise some code.,202,12,214,6,8,0.75
+3e0063c557acb3fc332d4b82ba6b3e41,2019-10-20T05:52:58Z,test methods 2,2,1,3,8,8,1.0
+3e0063c557acb3fc332d4b82ba6b3e41,2019-10-23T01:32:33Z,main method done,37,18,55,8,8,1.0
+3e0063c557acb3fc332d4b82ba6b3e41,2019-10-23T01:46:45Z,Update README.md,3,2,5,8,8,1.0
+3e0063c557acb3fc332d4b82ba6b3e41,2019-10-23T02:13:50Z,method 2,42,23,65,8,8,1.0
+3e0063c557acb3fc332d4b82ba6b3e41,2019-10-11T19:30:44Z,Initial commit,556,0,556,0,8,0.0
+3e0063c557acb3fc332d4b82ba6b3e41,2019-10-20T05:42:54Z,test methods,84,14,98,5,8,0.625
+b1b47e9e49439cf663d2f532b6b2739d,2019-10-13T15:00:09Z,Initial commit,556,0,556,0,8,0.0
+b1b47e9e49439cf663d2f532b6b2739d,2019-10-13T16:22:48Z,"Updated readme, wrote the first 4 methods",52,11,63,0,8,0.0
+b1b47e9e49439cf663d2f532b6b2739d,2019-10-21T06:30:35Z,"finished methods, not tested",44,6,50,0,8,0.0
+b1b47e9e49439cf663d2f532b6b2739d,2019-10-23T06:07:39Z,"updated methods, adding logic to allow commands from user",131,13,144,4,8,0.5
+b1b47e9e49439cf663d2f532b6b2739d,2019-10-23T06:57:34Z,"added logic for all commands, replace single doesnt work",46,2,48,4,8,0.5
+d479449b7bec9d1b128ad0e2dbbb0b4d,2019-10-23T01:05:54Z,Final Version - Finished -,58,83,141,8,8,1.0
+d479449b7bec9d1b128ad0e2dbbb0b4d,2019-10-23T01:07:25Z,Update README.md,2,2,4,8,8,1.0
+d479449b7bec9d1b128ad0e2dbbb0b4d,2019-10-13T17:37:18Z,Initial commit,556,0,556,0,8,0.0
+d479449b7bec9d1b128ad0e2dbbb0b4d,2019-10-13T18:58:31Z,Version 1.0 - Unfinished -,6,2,8,0,8,0.0
+d479449b7bec9d1b128ad0e2dbbb0b4d,2019-10-20T01:31:11Z,Version 2.0 - Unfinished,43,8,51,0,8,0.0
+d479449b7bec9d1b128ad0e2dbbb0b4d,2019-10-20T18:57:31Z,Version 3.0 - Unfinished -,56,42,98,0,0,-1.0
+d479449b7bec9d1b128ad0e2dbbb0b4d,2019-10-21T00:17:20Z,Version 4.0 - Unfinished -,38,27,65,0,0,-1.0
+d479449b7bec9d1b128ad0e2dbbb0b4d,2019-10-22T02:14:02Z,Version 5.0,32,34,66,4,8,0.5
+d479449b7bec9d1b128ad0e2dbbb0b4d,2019-10-22T04:55:12Z,Version 6.0 - Unfinished -,32,17,49,6,8,0.75
+2fbb52741306a35461fcf458874ee741,2019-10-22T00:18:49Z,Initial commit,556,0,556,0,8,0.0
+2fbb52741306a35461fcf458874ee741,2019-10-23T06:07:00Z,Update StringManipulator.java,16,6,22,0,8,0.0
+7e567f1da1c4f05fd04e46a1a2a397b6,2019-10-11T07:39:36Z,"completed validateString, validateStringContainsChar, replaceAll, validateOccurance, replaceSingle, and remove methods, and implemented them all into the main method.",236,17,253,8,8,1.0
+7e567f1da1c4f05fd04e46a1a2a397b6,2019-10-10T07:18:54Z,Initial commit,556,0,556,0,8,0.0
+385057e7fe2f92768a93f6c2dc98da1a,2019-10-15T01:51:37Z,Initial commit,556,0,556,0,8,0.0
+385057e7fe2f92768a93f6c2dc98da1a,2019-10-23T06:58:16Z,Lab 3\n\nFinal submission,124,94,218,6,8,0.75
+ac040ee674ac3f35f813b9799c1e8de5,2019-10-21T18:23:59Z,Initial commit,556,0,556,0,8,0.0
+23d7579d3925aced0760fdbdf9996a2d,2019-10-13T16:54:45Z,Initial commit,556,0,556,0,8,0.0
+23d7579d3925aced0760fdbdf9996a2d,2019-10-18T00:15:07Z,"Final Submission, Works as expected",2,0,2,0,0,-1.0
+77ccb4743d35ae837cab5c057e71befe,2019-10-19T08:34:17Z,further bug fixing of validateOccurance,6,2,8,8,8,1.0
+77ccb4743d35ae837cab5c057e71befe,2019-10-19T08:38:56Z,removed redundant code,1,5,6,8,8,1.0
+77ccb4743d35ae837cab5c057e71befe,2019-10-19T08:42:03Z,Added comment to main method,4,1,5,8,8,1.0
+77ccb4743d35ae837cab5c057e71befe,2019-10-19T08:43:12Z,Update README.md,1,1,2,8,8,1.0
+77ccb4743d35ae837cab5c057e71befe,2019-10-13T19:23:48Z,Initial commit,556,0,556,0,8,0.0
+77ccb4743d35ae837cab5c057e71befe,2019-10-19T08:07:14Z,First edit,202,17,219,7,8,0.875
+77ccb4743d35ae837cab5c057e71befe,2019-10-19T08:08:24Z,Update README.md,4,2,6,7,8,0.875
+77ccb4743d35ae837cab5c057e71befe,2019-10-19T08:17:54Z,fixed validateOccurance,1,1,2,7,8,0.875
+1f9bfb21ac3ed6ecbb2e447507c516b4,2019-10-24T01:04:29Z,"forgot a bracket, didn't see travis until now, but it is fixed and everything should be working properly sorry its late but I am still trying to understand Travis",1,1,2,8,8,1.0
+1f9bfb21ac3ed6ecbb2e447507c516b4,2019-10-13T17:27:33Z,finished the whole lab,11,71,82,0,0,-1.0
+1f9bfb21ac3ed6ecbb2e447507c516b4,2019-10-13T17:28:54Z,Update README.md,1,0,1,0,0,-1.0
+e4760d7c3e16e8c480f02dd1ccf9d48e,2019-10-15T04:40:09Z,Initial commit,556,0,556,0,8,0.0
+e4760d7c3e16e8c480f02dd1ccf9d48e,2019-10-23T02:53:33Z,This program manipulates inputted strings.,240,71,311,0,0,-1.0
+e4760d7c3e16e8c480f02dd1ccf9d48e,2019-10-23T04:23:05Z,Fixed lossy conversion from string to int,2,3,5,0,0,-1.0
+e4760d7c3e16e8c480f02dd1ccf9d48e,2019-10-23T03:20:24Z,Fixed compilation error and some formatting.,59,49,108,0,0,-1.0
+e4760d7c3e16e8c480f02dd1ccf9d48e,2019-10-23T04:29:43Z,"See Extended Description Concerning Compilation\n\nThis program successfully compiles in Eclipse, JGrasp, \n\nAtom, and the Ubuntu Terminal, but not in Travis CI, which is saying that I am using a lossy conversion from string to int. I do not know how to fix this issue. I would be happy to run my Github submission on my personal computer during your office hours or after class so we can address why this is not compiling. Thanks for your time. \n\n-Austin Morin",1,1,2,0,0,-1.0
+baad0ba461ecd4a8be6f02d76ce4a705,2019-10-22T01:52:03Z,got all of the validates working hopefully,116,38,154,8,8,1.0
+baad0ba461ecd4a8be6f02d76ce4a705,2019-10-22T21:31:25Z,updated the readme and cleaned up the comments,25,98,123,8,8,1.0
+baad0ba461ecd4a8be6f02d76ce4a705,2019-10-13T15:39:13Z,Initial commit,556,0,556,0,8,0.0
+baad0ba461ecd4a8be6f02d76ce4a705,2019-10-16T17:59:07Z,first git push,49,5,54,0,0,-1.0
+baad0ba461ecd4a8be6f02d76ce4a705,2019-10-19T21:29:12Z,hopefully i can get further later,20,21,41,0,0,-1.0
+baad0ba461ecd4a8be6f02d76ce4a705,2019-10-20T05:51:39Z,doing stuff,53,13,66,3,8,0.375
+6a39528f9953bcc75b957e9b17f3a4ad,2019-10-18T01:34:45Z,created StringManipulator class and update readme,252,87,339,8,8,1.0
+6a39528f9953bcc75b957e9b17f3a4ad,2019-10-18T01:37:34Z,Update README.md,3,1,4,8,8,1.0
+28bc8fd779c7e2cce87160782c0b3f6c,2019-10-13T16:46:56Z,"Implemented a scanner, menu, validateString, validateStringContainsChar, printReverse, replaceAll, validateOccurance and started the replace single method.",20,25,45,0,0,-1.0
+28bc8fd779c7e2cce87160782c0b3f6c,2019-10-13T16:48:01Z,"Implemented a scanner, menu, validateString, validateStringContainsChar, printReverse, replaceAll, validateOccurance and started the replace single method.",99,39,138,0,0,-1.0
+28bc8fd779c7e2cce87160782c0b3f6c,2019-10-21T00:34:23Z,made a lot of changes to functions of string manipulator and added a method for getChar getCharNew and getInt that will ask for inputs from the user,174,87,261,4,8,0.5
+28bc8fd779c7e2cce87160782c0b3f6c,2019-10-23T00:51:25Z,finished all of the methods that they work as inteded,11,13,24,0,0,-1.0
+25532d9bf12145a30eee3e8aeb550864,2019-10-22T00:32:35Z,Update StringManipulator.java,268,37,305,8,8,1.0
+25532d9bf12145a30eee3e8aeb550864,2019-10-22T00:34:50Z,Update README.md,2,2,4,8,8,1.0
+25532d9bf12145a30eee3e8aeb550864,2019-10-13T01:08:28Z,Initial commit,556,0,556,0,8,0.0
+e7d6a368d4d0843fbfa880bbf122be88,2019-10-23T05:54:59Z,Add files via upload,203,77,280,8,8,1.0
+e7d6a368d4d0843fbfa880bbf122be88,2019-10-23T05:55:27Z,Update README.md,2,2,4,8,8,1.0
+e7d6a368d4d0843fbfa880bbf122be88,2019-10-22T06:45:04Z,Initial commit,556,0,556,0,8,0.0
+09d21c6e727433c00b2ac4ad2f8a7fa9,2019-10-22T01:31:57Z,Initial commit,556,0,556,0,8,0.0
+09d21c6e727433c00b2ac4ad2f8a7fa9,2019-10-22T06:01:46Z,Added functionality,217,17,234,6,8,0.75
+09d21c6e727433c00b2ac4ad2f8a7fa9,2019-10-23T00:45:09Z,added lowercase check,9,0,9,6,8,0.75
+09d21c6e727433c00b2ac4ad2f8a7fa9,2019-10-23T05:25:34Z,facelifted the main method,59,72,131,6,8,0.75
+09d21c6e727433c00b2ac4ad2f8a7fa9,2019-10-23T05:35:13Z,fixed replacedSingle,5,4,9,6,8,0.75
+3682df6a72cd6e7d3740e80156930b7e,2019-10-13T16:54:36Z,Initial commit,556,0,556,0,8,0.0
+3682df6a72cd6e7d3740e80156930b7e,2019-10-13T18:44:40Z,a summary of the changes,121,18,139,0,0,-1.0
+4c3fb65d710265d0e0474a0aa247d94b,2019-10-23T02:48:54Z,Implemented text manipulation functions; implemented user functions; changed ReadMe,151,63,214,8,8,1.0
+4c3fb65d710265d0e0474a0aa247d94b,2019-10-22T23:00:11Z,Initial commit,556,0,556,0,8,0.0
+2c1b05e39ea9e2f2cd46217c34088d80,2019-10-13T17:11:34Z,Initial commit,556,0,556,0,8,0.0
+2c1b05e39ea9e2f2cd46217c34088d80,2019-10-13T18:48:32Z,defined 2 methods,24,8,32,0,0,-1.0
+2c1b05e39ea9e2f2cd46217c34088d80,2019-10-21T23:16:32Z,commented out some code in main method,14,7,21,0,0,-1.0
+8da3cf0c67410fed69a0dbc0aacf8ab7,2019-10-13T17:21:59Z,Initial commit,556,0,556,0,8,0.0
+8da3cf0c67410fed69a0dbc0aacf8ab7,2019-10-23T02:25:29Z,Updating and correcting test cases,130,7,137,0,0,-1.0
+8da3cf0c67410fed69a0dbc0aacf8ab7,2019-10-23T04:53:45Z,Updated version,40,28,68,2,8,0.25
+8da3cf0c67410fed69a0dbc0aacf8ab7,2019-10-23T06:53:05Z,Final Version,130,40,170,0,0,-1.0
+8da3cf0c67410fed69a0dbc0aacf8ab7,2019-10-29T17:20:47Z,Fixed comment,1,1,2,3,8,0.375
+52776719235779e065d5726c23ec311a,2019-10-21T23:23:48Z,implemented all methods,156,84,240,8,8,1.0
+52776719235779e065d5726c23ec311a,2019-10-10T21:57:53Z,Initial commit,556,0,556,0,8,0.0
+9b4829f3e907721d6113ed5c4e1b0557,2019-10-15T17:07:03Z,Initial commit,556,0,556,0,8,0.0
+9b4829f3e907721d6113ed5c4e1b0557,2019-10-15T18:45:33Z,Update README.md,125,2,127,0,8,0.0
+9b4829f3e907721d6113ed5c4e1b0557,2019-10-16T08:29:25Z,Update README.md,30,4,34,0,8,0.0
+9b4829f3e907721d6113ed5c4e1b0557,2019-10-17T01:06:16Z,Update README.md,157,124,281,0,8,0.0
+9b4829f3e907721d6113ed5c4e1b0557,2019-10-20T07:28:25Z,Update README.md,59,19,78,0,8,0.0
+9b4829f3e907721d6113ed5c4e1b0557,2019-10-21T04:55:25Z,Update README.md,28,14,42,0,8,0.0
+9b4829f3e907721d6113ed5c4e1b0557,2019-10-21T06:38:49Z,Update README.md,9,1,10,0,8,0.0
+9b4829f3e907721d6113ed5c4e1b0557,2019-10-22T05:23:45Z,Update README.md,67,66,133,0,8,0.0
+9b4829f3e907721d6113ed5c4e1b0557,2019-10-22T18:09:12Z,Update README.md,12,22,34,0,8,0.0
+9b4829f3e907721d6113ed5c4e1b0557,2019-10-23T05:33:22Z,Update StringManipulator.java,222,99,321,0,0,-1.0
+9b4829f3e907721d6113ed5c4e1b0557,2019-10-23T05:35:11Z,Update README.md,1,235,236,0,0,-1.0
+67dc9282fcb6e66a2a42bfed53b51c74,2019-10-23T02:22:57Z,Update StringManipulator.java,151,106,257,8,8,1.0
+67dc9282fcb6e66a2a42bfed53b51c74,2019-10-23T02:26:40Z,Update README.md,2,2,4,8,8,1.0
+67dc9282fcb6e66a2a42bfed53b51c74,2019-10-22T21:59:14Z,Initial commit,556,0,556,0,8,0.0

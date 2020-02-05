@@ -136,7 +136,7 @@ for repo in repo_name_hash:
     print(total_changes,best_test_ratio,":",repo)
 
 
-# matplotlib plt stuff
+# prettify matplotlib plt
 plt.rcParams['axes.facecolor'] = 'black'
 plt.scatter(x,y,color='limegreen',facecolors='none')
 plt.xlabel('number changes')

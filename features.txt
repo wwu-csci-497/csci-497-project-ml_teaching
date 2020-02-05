@@ -1,0 +1,1 @@
+Given the current amount of total number of additions, number of deletions, number of changes, number of passed test cases, the time (timestamp)

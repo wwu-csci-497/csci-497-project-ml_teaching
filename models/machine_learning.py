@@ -17,7 +17,7 @@ def load_data():
     CHART_STYLE = 'dark_background'
     START_DATE = datetime.strptime('2019-10-09T00:00:00Z',data_format)
     DAYS = 15
-    
+
     #repo_url = 'https://github.com/wwu-csci-497/automated-feedback-lab-sample/blob/master/lab3_repo.csv'
     #commit_url = 'https://github.com/wwu-csci-497/automated-feedback-lab-sample/blob/master/lab3_commit.csv'
     repo_url = 'lab3_repo.csv'
@@ -138,7 +138,7 @@ def load_data():
             total_additions += commit.n_additions
             total_deletions += commit.n_deletions
             total_changes = total_additions + total_deletions
-            x.append(np.array([commit.day,total_changes,total_additions,total_deletions]))
+            x.append(np.array([commit.day,total_changes,total_additions,total_deletions,commit.test_ratio]))
             best_test_ratio = max(best_test_ratio, commit.test_ratio)
         y += ([best_test_ratio] * len(commit_lst))
 
@@ -151,7 +151,7 @@ def train(x,y):
     clf = tree.DecisionTreeRegressor().fit(x,y)
     print(clf.score(x,y))
     tree.plot_tree(clf)
-    feature_names=['day','n_changes','n_additions','n_deletions']
+    feature_names=['day','n_changes','n_additions','n_deletions','test_ratio']
 
     data=tree.export_graphviz(clf,
                               out_file=None,
@@ -166,6 +166,7 @@ def train(x,y):
 
 def main():
     x,y=load_data()
+    print(len(x))
     train(x,y)
 
 if __name__ == '__main__':

@@ -138,7 +138,7 @@ for repo in repo_name_hash:
 
 # prettify matplotlib plt
 plt.rcParams['axes.facecolor'] = 'black'
-plt.scatter(x,y,color='limegreen',facecolors='none')
+plt.scatter(x,y,color='orange',facecolors='none')
 plt.xlabel('number changes')
 plt.ylabel('percent passed')
 plt.show()

@@ -1,0 +1,3 @@
+round_epochs,loss,acc,activation,batch_size,dropout,epochs,last_activation,losses,lr,neuron_tuple,optimizer
+100,1456.3451420438462,0.026086956,<function elu at 0x7fd151a7b9d8>,7,0.30000000000000004,100,<function linear at 0x7fd151a7bea0>,<function mean_squared_error at 0x7fd151c4f268>,0.05,[25, 20],<class 'keras.optimizers.Adam'>
+200,0.08730136857003622,0.7884058,<function elu at 0x7fd151a7b9d8>,9,0.0,200,<function linear at 0x7fd151a7bea0>,<function mean_squared_error at 0x7fd151c4f268>,0.32,[20],<class 'keras.optimizers.Adam'>

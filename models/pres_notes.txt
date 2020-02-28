@@ -1,0 +1,53 @@
+Introduction
+
+Use several innovative technoligies, such as massive online open courses (MOOCs)
+and timely intervene students' learning behavior according to the measurement
+result of engagement.
+
+Studies have indicated that self-regulated learning strategies produce positive
+effects on students' levels of engagement
+
+3 Research Questions:
+
+Can a learning analytics approach improve students' levels of engagement in
+comparison with students' engagement with a conventional collaborative
+programming course?
+
+Can a learning analystics approach improve students' learning outcomes in
+comparison with their outcomes in a conventional collaborative programming
+course?
+
+What is the relationship between students' self-regulation ability and levels
+of engagement?
+
+
+Literature Review
+
+Learning analytics can be categorized as a special condition of big data in a
+computer-based learning scenario.
+
+The concept of learning analytics involves identifying at-risk student
+populations and providing proactive intervention strategies.
+
+For instance, Chiang Yang and et al. collected students' interaction data in
+an AR-based inquiry system and extracted sequential patterns to understand
+students' learning behaviors.
+
+Casquero and et al. analyzed students' learning behaviors and personal networks
+through clustered graphs; they showed that a personal learning environment with
+a learning analytics approach provided positive effects on students' learning
+performance.
+
+Intervention also played a major role in learning analytics; instructors must
+intervene after identifying at-risk student populations. Many researchers have
+developed intervention strategies to improve students' learning performance.
+
+Lonn et al. observed students' learning behaviors and offered face-to-face
+interventions in a summer bridge program.
+
+**The results show that learning performances as well as ability to construct
+knowledge was improved by applying learning analytics.
+
+**On the basis of these findings, the present study proposes indicator variables,
+particularly level-of-engagement as defined in Section 4.4, that can help
+instructors to identify at-risk populations and provide timely intervention.

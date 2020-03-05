@@ -7,9 +7,11 @@ def main():
     csv_files = glob.glob('comp_edu2/*')
     csv_files.sort()
     for csv_file in csv_files:
-        print('Loading...',csv_file)
+        #print('Loading...',csv_file)
         df = pd.read_csv(csv_file,sep=',')
-        #max_acc = df["val_accuracy"]
+        max_acc = df["val_accuracy"].max()
+        max_acc = df["val_loss"].min()
+        print(max_acc)
         #print(df.columns)
         #for col in df.columns:
         #    print (col)

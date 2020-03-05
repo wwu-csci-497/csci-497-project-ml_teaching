@@ -8,6 +8,7 @@ from sklearn.model_selection import train_test_split
 import numpy as np
 import pickle
 import talos as ta
+from talos import Deploy
 
 import operator
 import time
@@ -49,8 +50,10 @@ def main():
     z_dataset = np.sort(z_dataset,axis=0)
     x_dataset,y_dataset=z_dataset[:,:-1],z_dataset[:,-1]
 
-    np.save(open('test_setx.pk','wb'),x_test)
-    np.save(open('test_sety.pk','wb'),y_test)
+    np.save(open('test_setx.np','wb'),x_test)
+    np.save(open('test_sety.np','wb'),y_test)
+    np.save(open('valid_setx.np','wb'),x_test)
+    np.save(open('valid_sety.np','wb'),y_test)
     # For each split, train
     NUM_SPLIT = 15
     for i in range(NUM_SPLIT):
@@ -63,12 +66,13 @@ def main():
                   model=fp_model,
                   fraction_limit=grid_downsample,
                   params=p,
-                  experiment_name='comp_edu2',
+                  experiment_name=('comp_edu'+str(i)),
                   x_val=x_valid,
                   y_val=y_valid)
         # make unique model name
-        model_name = 'dnn_' + str(i) + '_' + str(NUM_SPLIT) + '.pk'
-        pickle.dump(t,open(model_name,'wb'))
+        model_name = 'dnn_' + str(i) + '_' + str(NUM_SPLIT) + '.md'
+        Deploy(scan_object=t,model_name=model_name,metric='val_loss',asc=True)
+        #pickle.dump(t,open(model_name,'wb'))
 
 def filter_data(x,y,ratio):
     # number of datapoints with (day ratio) <= ratio

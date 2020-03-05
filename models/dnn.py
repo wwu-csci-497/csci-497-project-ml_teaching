@@ -1,9 +1,10 @@
 from keras.models import Sequential
 from keras.layers import LSTM,Dense,Dropout
-from keras.losses import mean_squared_error,mean_absolute_error
-from keras.activations import relu,elu,linear
+from keras.losses import binary_crossentropy
+from keras.activations import relu,elu,linear,sigmoid
 from keras.optimizers import Adam,Nadam,RMSprop
 from talos.model import lr_normalizer
+from sklearn.model_selection import train_test_split
 import numpy as np
 import pickle
 import talos as ta
@@ -31,21 +32,48 @@ p = {'lr': (0.05, 0.5, 5),
      'batch_size': (2, 10, 30),
      'epochs': [100,200],
      'dropout': (0, 0.5, 5),
-     'optimizer': [Adam, Nadam, RMSprop],
-     'losses': [mean_squared_error,mean_absolute_error],
+     'optimizer': [Adam, Nadam],
+     'losses': [binary_crossentropy],
      'activation':[relu, elu],
-     'last_activation': [linear]}
+     'last_activation': [sigmoid]}
 
 def main():
-    x,y=load_data()
-    #x_train,x_test,y_train,
-    t=ta.Scan(x=x,
-              y=y,
-              model=fp_model,
-              fraction_limit=grid_downsample,
-              params=p,
-              experiment_name='comp_edu2')
-    pickle.dump(t,open('hyper.pk','wb'))
+    THRESHOLD = 0.75
+    x_dataset,y_dataset=load_data()
+    y_dataset = 1.0 * (y_dataset>=THRESHOLD)
+    # get training dataset
+    x_dataset,x_valid,y_dataset,y_valid=train_test_split(x_dataset,y_dataset,test_size=0.30)
+    x_valid,x_test,y_valid,y_test=train_test_split(x_valid,y_valid,test_size=0.50)
+    # join dataset for sorting
+    z_dataset = np.concatenate((x_dataset,np.reshape(y_dataset,(y_dataset.shape[0],1))),axis=1)
+    z_dataset = np.sort(z_dataset,axis=0)
+    x_dataset,y_dataset=z_dataset[:,:-1],z_dataset[:,-1]
+
+    np.save(open('test_setx.pk','wb'),x_test)
+    np.save(open('test_sety.pk','wb'),y_test)
+    # For each split, train
+    NUM_SPLIT = 15
+    for i in range(NUM_SPLIT):
+        ratio = float(i+1) / float(NUM_SPLIT)
+        x_train,y_train=filter_data(x_dataset,y_dataset,ratio)
+        if x_train.shape[0] == 0:
+            continue
+        t=ta.Scan(x=x_train,
+                  y=y_train,
+                  model=fp_model,
+                  fraction_limit=grid_downsample,
+                  params=p,
+                  experiment_name='comp_edu2',
+                  x_val=x_valid,
+                  y_val=y_valid)
+        # make unique model name
+        model_name = 'dnn_' + str(i) + '_' + str(NUM_SPLIT) + '.pk'
+        pickle.dump(t,open(model_name,'wb'))
+
+def filter_data(x,y,ratio):
+    # number of datapoints with (day ratio) <= ratio
+    count = np.sum(x[:,0]<=ratio)
+    return x[:count,:],y[:count]
 
 
 def fp_model(x_train,y_train,x_val,y_val,params):
@@ -60,13 +88,14 @@ def fp_model(x_train,y_train,x_val,y_val,params):
     model.add(Dense(1,activation=params['last_activation']))
     model.compile(optimizer=params['optimizer'](lr=lr_normalizer(params['lr'],params['optimizer'])),
                   loss=params['losses'],
-                  metrics=['acc'])
+                  metrics=['accuracy'])
 
     #Train the model, iterating on the data in batches of 32 samples
     history=model.fit(x_train,y_train,
               epochs=params['epochs'],
               batch_size=params['batch_size'],
-              verbose=1)
+              verbose=1,
+              validation_data=[x_val,y_val])
     return history,model
 
 def load_data():
@@ -195,7 +224,7 @@ def load_data():
             total_additions += commit.n_additions
             total_deletions += commit.n_deletions
             total_changes = total_additions + total_deletions
-            x.append(np.array([commit.day,total_changes,total_additions,total_deletions,commit.test_ratio]))
+            x.append(np.array([commit.day/DAYS,len(commit.comment),total_changes,total_additions,total_deletions,commit.test_ratio]))
             best_test_ratio = max(best_test_ratio, commit.test_ratio)
         y += ([best_test_ratio] * len(commit_lst))
 
